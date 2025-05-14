@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            height: 100vh;
+            /* background: url('/static/background.webp') no-repeat center center fixed; */
+            background-size: cover;
+        }
+        #chatContainer {
+            width: 400px;
+            height: 500px;
+            background: white;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            display: none;
+            flex-direction: column;
+            overflow: hidden;
+            position: fixed;
+            bottom: 80px;
+            right: 20px;
+        }
+        #chatOutput {
+            flex-grow: 1;
+            overflow-y: auto;
+            padding: 10px;
+            display: flex;
+            flex-direction: column;
+        }
+        .message {
+            padding: 10px;
+            margin: 5px;
+            border-radius: 10px;
+            max-width: 75%;
+        }
+        .user {
+            background: #007bff;
+            color: white;
+            align-self: flex-end;
+        }
+        .bot {
+            background: #e9ecef;
+            align-self: flex-start;
+        }
+        .option-button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            margin: 5px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+        .option-button:hover {
+            background: #0056b3;
+        }
+        #inputContainer {
+            display: flex;
+            border-top: 1px solid #ddd;
+            display: none;
+        }
+        input {
+            flex-grow: 1;
+            border: none;
+            padding: 10px;
+            font-size: 16px;
+        }
+        button {
+            background: #007bff;
+            color: white;
+            border: none;
+            padding: 10px 15px;
+            cursor: pointer;
+        }
+        #chatIcon {
+            position: fixed;
+            bottom: 20px;
+            right: 20px;
+            width: 60px;
+            height: 60px;
+            background: url('/static/icon.webp') no-repeat center center;
+            background-size: contain;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <button id="chatIcon" onclick="toggleChat()" title="Open chat">Chat</button>
+    <div id="chatContainer">
+        <div id="chatOutput"></div>
+        <button id="startButton" onclick="startChat()">Are you concerned about your disease?</button>
+        <div id="inputContainer">
+            <input type="text" id="userInput" placeholder="Enter disease name..." onkeypress="if(event.key === 'Enter') sendMessage()">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script>
+        let sessionId = Math.random().toString(36).substr(2, 9);
+
+        function toggleChat() {
+            let chatContainer = document.getElementById("chatContainer");
+            chatContainer.style.display = chatContainer.style.display === "flex" ? "none" : "flex";
+        }
+
+        function startChat() {
+            let chatOutput = document.getElementById("chatOutput");
+            chatOutput.innerHTML += "<div class='message bot'>Please enter your disease name.</div>";
+            document.getElementById("startButton").style.display = "none";
+            document.getElementById("inputContainer").style.display = "flex";
+        }
+
+        async function sendMessage(userMessage = null) {
+            let userInput = document.getElementById("userInput");
+            let chatOutput = document.getElementById("chatOutput");
+            if (!userMessage) userMessage = userInput.value;
+            if (!userMessage.trim()) return;
+
+            chatOutput.innerHTML += `<div class='message user'>${userMessage}</div>`;
+            userInput.value = "";
+
+            let response = await fetch('/chat', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ message: userMessage, session_id: sessionId })
+            });
+
+            let data = await response.json();
+            chatOutput.innerHTML += `<div class='message bot'>${data.response}</div>`;
+        }
+    </script>
+</body>
+</html>

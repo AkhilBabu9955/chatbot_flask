@@ -1,0 +1,3850 @@
+{
+  "diseases": [
+    {
+      "name": "Diabetes",
+      "symptoms": [
+        "Frequent urination",
+        "Excessive thirst",
+        "Unexplained weight loss",
+        "Extreme hunger",
+        "Fatigue",
+        "Blurred vision",
+        "Slow-healing wounds",
+        "Tingling or numbness in hands and feet"
+      ],
+      "precautions": [
+        "Maintain a healthy and balanced diet",
+        "Exercise regularly to control blood sugar levels",
+        "Monitor blood sugar levels frequently",
+        "Take prescribed medications or insulin as directed",
+        "Avoid excessive sugar and carbohydrate intake",
+        "Stay hydrated",
+        "Manage stress effectively",
+        "Get regular medical checkups"
+      ],
+      "description": "Diabetes is a chronic condition that affects how the body processes blood sugar (glucose). There are two main types: Type 1 (autoimmune condition where the body doesn't produce insulin) and Type 2 (body becomes resistant to insulin). Proper management through diet, exercise, and medication is essential to prevent complications such as heart disease, kidney damage, and nerve problems.",
+      "medicines": [
+        "Metformin (for Type 2 diabetes)",
+        "Insulin therapy (for Type 1 and severe Type 2 diabetes)",
+        "Sulfonylureas (such as Glipizide, Glyburide)",
+        "DPP-4 inhibitors (such as Sitagliptin)",
+        "SGLT2 inhibitors (such as Empagliflozin, Canagliflozin)",
+        "GLP-1 receptor agonists (such as Liraglutide, Semaglutide)",
+        "Alpha-glucosidase inhibitors (such as Acarbose)"
+      ]
+    },
+    {
+      "name": "Hypertension",
+      "symptoms": [
+        "Often no symptoms in early stages",
+        "Severe headaches",
+        "Dizziness",
+        "Blurred vision",
+        "Shortness of breath",
+        "Chest pain",
+        "Nosebleeds",
+        "Fatigue"
+      ],
+      "precautions": [
+        "Maintain a low-sodium and heart-healthy diet",
+        "Exercise regularly (at least 30 minutes a day)",
+        "Monitor blood pressure regularly",
+        "Manage stress through relaxation techniques",
+        "Avoid smoking and excessive alcohol consumption",
+        "Maintain a healthy weight",
+        "Take prescribed medications as directed",
+        "Get regular medical checkups"
+      ],
+      "description": "Hypertension, or high blood pressure, occurs when the force of blood against the artery walls is consistently too high. It can lead to serious complications such as heart disease, stroke, kidney failure, and vision loss. Lifestyle changes and medication can help manage the condition effectively.",
+      "medicines": [
+        "ACE inhibitors (such as Lisinopril, Enalapril)",
+        "Beta-blockers (such as Metoprolol, Atenolol)",
+        "Calcium channel blockers (such as Amlodipine, Diltiazem)",
+        "Diuretics (such as Hydrochlorothiazide, Furosemide)",
+        "Angiotensin II receptor blockers (such as Losartan, Valsartan)",
+        "Alpha-blockers (such as Doxazosin, Prazosin)",
+        "Combination medications (for severe cases)"
+      ]
+    },
+    
+    {
+      "name": "Influenza",
+      "symptoms": [
+        "High fever",
+        "Chills",
+        "Cough",
+        "Sore throat",
+        "Runny or stuffy nose",
+        "Muscle or body aches",
+        "Fatigue",
+        "Headache",
+        "Nausea or vomiting (more common in children)"
+      ],
+      "precautions": [
+        "Get an annual flu vaccine",
+        "Wash hands frequently with soap and water",
+        "Avoid close contact with infected individuals",
+        "Cover mouth and nose when sneezing or coughing",
+        "Stay hydrated and eat a balanced diet",
+        "Rest and avoid strenuous activities if feeling unwell",
+        "Disinfect frequently touched surfaces",
+        "Wear a mask in crowded places during flu season"
+      ],
+      "description": "Influenza, commonly known as the flu, is a contagious respiratory illness caused by influenza viruses. It spreads through respiratory droplets when an infected person coughs or sneezes. Symptoms range from mild to severe, and complications can include pneumonia, bronchitis, and worsening of chronic medical conditions.",
+      "medicines": [
+        "Oseltamivir (Tamiflu) – antiviral medication",
+        "Zanamivir (Relenza) – antiviral medication",
+        "Baloxavir marboxil (Xofluza) – antiviral medication",
+        "Paracetamol (for fever and pain relief)",
+        "Ibuprofen (for pain and inflammation)",
+        "Decongestants (for nasal congestion)",
+        "Cough suppressants (for persistent cough)"
+      ]
+    },
+    
+    {
+      "name": "Asthma",
+      "symptoms": [
+        "Shortness of breath",
+        "Wheezing",
+        "Coughing, especially at night or early morning",
+        "Chest tightness or pain",
+        "Difficulty breathing after physical activity",
+        "Frequent respiratory infections",
+        "Fatigue due to poor sleep from breathing difficulties"
+      ],
+      "precautions": [
+        "Avoid exposure to allergens and pollutants",
+        "Use prescribed inhalers as directed",
+        "Maintain indoor air quality with air purifiers",
+        "Exercise regularly but avoid overexertion",
+        "Practice breathing exercises and stress management",
+        "Stay up to date with flu and pneumonia vaccines",
+        "Avoid smoking and secondhand smoke",
+        "Follow an asthma action plan provided by a doctor"
+      ],
+      "description": "Asthma is a chronic respiratory condition that causes inflammation and narrowing of the airways, leading to difficulty in breathing. It can be triggered by allergens, cold air, exercise, or respiratory infections. Proper management with medication and lifestyle adjustments is essential to prevent asthma attacks.",
+      "medicines": [
+        "Albuterol (short-acting bronchodilator for quick relief)",
+        "Salmeterol (long-acting bronchodilator)",
+        "Fluticasone (inhaled corticosteroid)",
+        "Budesonide (inhaled corticosteroid)",
+        "Montelukast (leukotriene receptor antagonist)",
+        "Theophylline (oral medication for airway relaxation)",
+        "Omalizumab (for severe allergic asthma)"
+      ]
+    },
+  
+
+    {
+  "name": "Tuberculosis",
+  "symptoms": [
+    "Persistent cough lasting more than three weeks",
+    "Coughing up blood or mucus",
+    "Chest pain",
+    "Unintentional weight loss",
+    "Fatigue",
+    "Fever",
+    "Night sweats",
+    "Loss of appetite",
+    "Shortness of breath"
+  ],
+  "precautions": [
+    "Get vaccinated with the BCG vaccine",
+    "Cover mouth and nose while coughing or sneezing",
+    "Ensure proper ventilation in living spaces",
+    "Avoid close contact with infected individuals",
+    "Complete the full course of TB medication as prescribed",
+    "Maintain good hygiene and sanitation",
+    "Improve immunity through a healthy diet and lifestyle"
+  ],
+  "description": "Tuberculosis (TB) is a contagious bacterial infection caused by *Mycobacterium tuberculosis*. It primarily affects the lungs but can also spread to other organs. TB spreads through airborne droplets when an infected person coughs or sneezes. If untreated, it can be life-threatening, but it is curable with proper medication.",
+  "medicines": [
+    "Isoniazid (INH) – first-line antibiotic",
+    "Rifampin (RIF) – first-line antibiotic",
+    "Ethambutol (EMB) – used in combination therapy",
+    "Pyrazinamide (PZA) – for initial treatment phase",
+    "Streptomycin – for drug-resistant TB cases",
+    "Bedaquiline – for multidrug-resistant TB",
+    "Delamanid – for extensively drug-resistant TB"
+  ]
+},
+
+{
+  "name": "Malaria",
+  "symptoms": [
+    "High fever",
+    "Chills and sweating",
+    "Headache",
+    "Nausea and vomiting",
+    "Muscle and joint pain",
+    "Fatigue",
+    "Rapid breathing",
+    "Abdominal pain",
+    "Diarrhea",
+    "Anemia (in severe cases)"
+  ],
+  "precautions": [
+    "Use mosquito nets while sleeping",
+    "Apply insect repellent containing DEET",
+    "Wear long-sleeved clothing in mosquito-prone areas",
+    "Eliminate stagnant water to prevent mosquito breeding",
+    "Take antimalarial medication before traveling to endemic areas",
+    "Stay in air-conditioned or screened rooms",
+    "Seek medical attention if symptoms appear after travel"
+  ],
+  "description": "Malaria is a life-threatening disease caused by *Plasmodium* parasites, which are transmitted through the bites of infected Anopheles mosquitoes. It is prevalent in tropical and subtropical regions. If left untreated, malaria can lead to severe complications such as organ failure and death.",
+  "medicines": [
+    "Chloroquine (for non-resistant strains)",
+    "Artemisinin-based combination therapies (ACTs)",
+    "Quinine sulfate (for severe cases)",
+    "Mefloquine (for prevention and treatment)",
+    "Primaquine (to prevent relapse of *P. vivax* and *P. ovale*)",
+    "Doxycycline (as a preventive measure)",
+    "Atovaquone-proguanil (for treatment and prevention)"
+  ]
+},
+
+    {
+      "name": "Dengue",
+      "symptoms": [
+        "High fever",
+        "Severe headache",
+        "Pain behind the eyes",
+        "Joint and muscle pain",
+        "Skin rash",
+        "Nausea and vomiting",
+        "Fatigue",
+        "Mild bleeding (nosebleeds, gum bleeding, or easy bruising)"
+      ],
+      "precautions": [
+        "Use mosquito repellents and wear protective clothing",
+        "Avoid mosquito breeding by keeping surroundings clean",
+        "Use mosquito nets while sleeping",
+        "Stay hydrated to prevent complications",
+        "Seek medical attention if symptoms worsen",
+        "Avoid taking aspirin or ibuprofen without medical advice"
+      ],
+      "description": "Dengue is a viral infection transmitted by Aedes mosquitoes. It causes flu-like symptoms and, in severe cases, can lead to dengue hemorrhagic fever or dengue shock syndrome, which can be life-threatening. Early diagnosis and proper hydration are crucial for recovery.",
+      "medicines": [
+        "Paracetamol (to reduce fever and pain)",
+        "Intravenous fluids (for severe cases)",
+        "Electrolyte solutions (to prevent dehydration)",
+        "Blood transfusion (in case of severe bleeding)",
+        "Rest and proper hydration"
+      ]
+    },
+    
+    {
+      "name": "covid 19",
+      "symptoms": [
+        "Fever",
+        "Cough",
+        "Shortness of breath",
+        "Loss of taste or smell",
+        "Fatigue",
+        "Sore throat",
+        "Body aches",
+        "Runny or stuffy nose",
+        "Nausea or vomiting",
+        "Diarrhea"
+      ],
+      "precautions": [
+        "Wear a mask in crowded places",
+        "Maintain social distancing",
+        "Wash hands frequently with soap and water",
+        "Use hand sanitizer when soap is not available",
+        "Get vaccinated and stay up to date with booster shots",
+        "Avoid touching face, eyes, nose, and mouth",
+        "Isolate if experiencing symptoms or tested positive",
+        "Improve ventilation in indoor spaces"
+      ],
+      "description": "COVID-19 is a respiratory illness caused by the SARS-CoV-2 virus. It spreads through respiratory droplets from infected individuals. While mild in some cases, it can lead to severe pneumonia, organ failure, and death, especially in older adults or those with underlying health conditions.",
+      "medicines": [
+        "Paracetamol (for fever and pain relief)",
+        "Antiviral drugs (such as Paxlovid, Molnupiravir, or Remdesivir)",
+        "Corticosteroids (such as Dexamethasone for severe cases)",
+        "Oxygen therapy (for patients with breathing difficulties)",
+        "Monoclonal antibodies (for high-risk patients)",
+        "IV fluids (for hydration in severe cases)"
+      ]
+    },
+    
+    {
+      "name": "Ebola",
+      "symptoms": [
+        "Fever",
+        "Severe headache",
+        "Vomiting",
+        "Unexplained bleeding"
+      ],
+      "precautions": [
+        "Avoid contact with infected persons",
+        "Wear protective clothing",
+        "Practice good hygiene",
+        "Seek medical care"
+      ],
+      "description": "A severe and often fatal viral disease.",
+      "medicines": [
+        "Supportive therapy",
+        "IV fluids",
+        "Experimental antivirals",
+        "Blood transfusions"
+      ]
+    },
+    {
+      "name": "Hepatitis B",
+      "symptoms": [
+        "Fatigue",
+        "Jaundice (yellowing of skin and eyes)",
+        "Dark urine",
+        "Abdominal pain",
+        "Loss of appetite",
+        "Nausea and vomiting",
+        "Joint pain",
+        "Fever",
+        "Swelling in the legs (in severe cases)",
+        "Liver damage or cirrhosis (in chronic cases)"
+      ],
+      "precautions": [
+        "Get vaccinated against Hepatitis B",
+        "Avoid sharing needles, razors, or toothbrushes",
+        "Practice safe sex (use protection)",
+        "Ensure blood products are screened before transfusion",
+        "Maintain proper hygiene and sanitation",
+        "Avoid excessive alcohol consumption to protect the liver",
+        "Get regular liver function tests if at risk"
+      ],
+      "description": "Hepatitis B is a viral infection that affects the liver, caused by the Hepatitis B virus (HBV). It spreads through contact with infected blood, bodily fluids, or from mother to child during birth. While some cases are acute and resolve on their own, chronic infections can lead to severe liver damage, cirrhosis, or liver cancer.",
+      "medicines": [
+        "Entecavir (for chronic Hepatitis B)",
+        "Tenofovir (to reduce viral load)",
+        "Lamivudine (for antiviral treatment)",
+        "Adefovir (for long-term management)",
+        "Interferon-alpha (to boost immune response)",
+        "Hepatitis B Immunoglobulin (for post-exposure prophylaxis)"
+      ]
+    },
+    
+    {
+      "name": "Pneumonia",
+      "symptoms": [
+        "Fever and chills",
+        "Cough with phlegm or pus",
+        "Shortness of breath",
+        "Chest pain when breathing or coughing",
+        "Fatigue",
+        "Loss of appetite",
+        "Nausea and vomiting",
+        "Confusion (especially in older adults)",
+        "Bluish lips or fingernails (in severe cases)"
+      ],
+      "precautions": [
+        "Get vaccinated (Pneumococcal and flu vaccines)",
+        "Wash hands frequently with soap and water",
+        "Avoid smoking to protect lung health",
+        "Maintain a strong immune system with a healthy diet",
+        "Practice proper respiratory hygiene (cover mouth when coughing)",
+        "Avoid close contact with sick individuals",
+        "Seek early treatment for respiratory infections"
+      ],
+      "description": "Pneumonia is a lung infection caused by bacteria, viruses, or fungi. It leads to inflammation in the air sacs (alveoli), which may fill with fluid or pus, making breathing difficult. It can range from mild to life-threatening, particularly in infants, elderly individuals, and people with weakened immune systems.",
+      "medicines": [
+        "Amoxicillin (for bacterial pneumonia)",
+        "Azithromycin (for atypical pneumonia)",
+        "Ceftriaxone (for severe bacterial pneumonia)",
+        "Levofloxacin (for bacterial pneumonia)",
+        "Oseltamivir (for viral pneumonia caused by influenza)",
+        "Antifungal medications (for fungal pneumonia)",
+        "Oxygen therapy (for severe cases with breathing difficulty)"
+      ]
+    },
+    
+    {
+      "name": "Chickenpox",
+      "symptoms": [
+        "Itchy red rash that turns into fluid-filled blisters",
+        "Fever",
+        "Fatigue",
+        "Loss of appetite",
+        "Headache",
+        "Body aches",
+        "Blisters that scab over after a few days"
+      ],
+      "precautions": [
+        "Get vaccinated (Varicella vaccine)",
+        "Avoid close contact with infected individuals",
+        "Wash hands frequently",
+        "Do not scratch blisters to prevent infection",
+        "Stay isolated until blisters have scabbed over",
+        "Keep fingernails short and clean",
+        "Wear loose, comfortable clothing to reduce irritation"
+      ],
+      "description": "Chickenpox is a highly contagious viral infection caused by the varicella-zoster virus. It is characterized by an itchy rash with fluid-filled blisters. The disease is common in children but can be more severe in adults. A vaccine is available to prevent infection.",
+      "medicines": [
+        "Acetaminophen (to reduce fever and pain)",
+        "Antihistamines (to relieve itching)",
+        "Calamine lotion (to soothe skin irritation)",
+        "Acyclovir (for severe cases or immunocompromised patients)",
+        "Hydration and rest to support recovery"
+      ]
+    },
+    
+    {
+      "name": "Typhoid Fever",
+      "symptoms": [
+        "High fever (up to 104°F or 40°C)",
+        "Weakness and fatigue",
+        "Abdominal pain",
+        "Loss of appetite",
+        "Constipation or diarrhea",
+        "Headache",
+        "Skin rash with rose-colored spots",
+        "Swollen abdomen",
+        "Delirium or confusion (in severe cases)"
+      ],
+      "precautions": [
+        "Get vaccinated against typhoid fever",
+        "Drink only purified or boiled water",
+        "Practice proper hand hygiene",
+        "Avoid raw or undercooked food",
+        "Wash fruits and vegetables thoroughly before eating",
+        "Avoid street food in endemic areas",
+        "Take antibiotics only as prescribed by a doctor"
+      ],
+      "description": "Typhoid fever is a bacterial infection caused by *Salmonella Typhi*. It spreads through contaminated food and water, particularly in regions with poor sanitation. If left untreated, typhoid can lead to severe complications such as intestinal perforation and organ failure. Early diagnosis and antibiotic treatment are essential for recovery.",
+      "medicines": [
+        "Ciprofloxacin (for non-resistant strains)",
+        "Azithromycin (for mild to moderate cases)",
+        "Ceftriaxone (for severe or drug-resistant cases)",
+        "Paracetamol (for fever and pain management)",
+        "Oral rehydration salts (to prevent dehydration)"
+      ]
+    },
+    
+    {
+      "name": "Rabies",
+      "symptoms": [
+        "Fever",
+        "Headache",
+        "Nausea and vomiting",
+        "Agitation and anxiety",
+        "Difficulty swallowing",
+        "Excessive salivation",
+        "Fear of water (hydrophobia)",
+        "Paralysis",
+        "Hallucinations",
+        "Seizures",
+        "Coma (in advanced stages)"
+      ],
+      "precautions": [
+        "Get vaccinated against rabies if at risk",
+        "Avoid contact with stray or wild animals",
+        "Immediately clean any animal bite wound with soap and water",
+        "Seek medical attention for any animal bite or scratch",
+        "Ensure pets are vaccinated against rabies",
+        "Report stray or aggressive animals to local authorities",
+        "Use protective gear when handling animals in high-risk areas"
+      ],
+      "description": "Rabies is a deadly viral infection that affects the central nervous system. It is transmitted through the saliva of infected animals, usually via bites or scratches. Once symptoms appear, rabies is almost always fatal. However, timely vaccination after exposure can prevent the disease.",
+      "medicines": [
+        "Rabies vaccine (post-exposure prophylaxis)",
+        "Rabies immunoglobulin (for immediate neutralization of the virus)",
+        "Supportive care (for symptom management in late-stage cases)"
+      ]
+    },
+    
+    {
+      "name": "Measles",
+      "symptoms": [
+        "Red rash",
+        "High fever",
+        "Runny nose",
+        "Cough"
+      ],
+      "precautions": [
+        "Get vaccinated",
+        "Avoid infected individuals",
+        "Wash hands frequently",
+        "Isolate infected persons"
+      ],
+      "description": "A highly contagious viral disease.",
+      "medicines": [
+        "Vitamin A",
+        "Acetaminophen",
+        "Supportive care"
+      ]
+    },
+    {
+      "name": "Cholera",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Cholera is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Leprosy",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Leprosy is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Mumps",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Mumps is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Tetanus",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Tetanus is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Whooping Cough",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Whooping Cough is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Yellow Fever",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Yellow Fever is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Zika Virus",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Zika Virus is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Anthrax",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Anthrax is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Brucellosis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Brucellosis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Cystic Fibrosis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Cystic Fibrosis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Diphtheria",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Diphtheria is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Gonorrhea",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Gonorrhea is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "hiv",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Swollen lymph nodes",
+        "Night sweats",
+        "Unintentional weight loss",
+        "Skin rashes",
+        "Chronic diarrhea",
+        "Mouth sores",
+        "Frequent infections",
+        "Opportunistic infections (e.g., tuberculosis, pneumonia)",
+        "Memory loss or neurological complications (in later stages)"
+      ],
+      "precautions": [
+        "Practice safe sex (use condoms)",
+        "Avoid sharing needles or syringes",
+        "Get tested regularly for HIV",
+        "Ensure blood transfusions use screened blood",
+        "Take pre-exposure prophylaxis (PrEP) if at high risk",
+        "Avoid contact with infected body fluids",
+        "Pregnant HIV-positive women should take antiretroviral therapy (ART) to prevent mother-to-child transmission"
+      ],
+      "description": "HIV (Human Immunodeficiency Virus) is a virus that attacks the immune system, making the body more vulnerable to infections and diseases. If left untreated, it can progress to AIDS (Acquired Immunodeficiency Syndrome), a life-threatening condition. While there is no cure, HIV can be managed with antiretroviral therapy (ART), allowing patients to lead long and healthy lives.",
+      "medicines": [
+        "Tenofovir (part of ART therapy)",
+        "Emtricitabine (helps suppress the virus)",
+        "Efavirenz (reduces viral load)",
+        "Dolutegravir (integrase inhibitor for viral suppression)",
+        "Ritonavir (protease inhibitor to boost ART effectiveness)",
+        "Lamivudine (commonly used in HIV treatment)",
+        "Pre-exposure prophylaxis (PrEP) for high-risk individuals"
+      ]
+    },
+    
+    {
+      "name": "Lyme Disease",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Lyme Disease is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Meningitis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Meningitis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Polio",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Headache",
+        "Sore throat",
+        "Stiffness in the neck and back",
+        "Muscle weakness or paralysis",
+        "Difficulty breathing (in severe cases)",
+        "Loss of reflexes",
+        "Joint pain or deformities (in post-polio syndrome)"
+      ],
+      "precautions": [
+        "Get vaccinated with the polio vaccine (OPV/IPV)",
+        "Ensure good hygiene and sanitation",
+        "Drink clean, purified water",
+        "Wash hands frequently with soap",
+        "Avoid close contact with infected individuals",
+        "Properly dispose of human waste",
+        "Strengthen the immune system with a healthy diet and exercise"
+      ],
+      "description": "Polio (poliomyelitis) is a highly contagious viral disease caused by the poliovirus. It primarily affects children under five years old and can lead to permanent paralysis or even death in severe cases. Polio spreads through contaminated food, water, and person-to-person contact. Vaccination is the most effective way to prevent polio.",
+      "medicines": [
+        "There is no cure for polio, only supportive treatment",
+        "Pain relievers (to reduce muscle pain and fever)",
+        "Physical therapy (to prevent deformities and improve mobility)",
+        "Ventilator support (for severe cases affecting breathing)",
+        "Orthopedic devices (such as braces and mobility aids)"
+      ]
+    },
+    
+    {
+      "name": "Psoriasis",
+      "symptoms": [
+        "Red patches of skin covered with thick, silvery scales",
+        "Dry, cracked skin that may bleed",
+        "Itching, burning, or soreness",
+        "Thickened or ridged nails",
+        "Swollen and stiff joints (in psoriatic arthritis)",
+        "Scaly patches on the scalp, elbows, knees, and lower back"
+      ],
+      "precautions": [
+        "Keep skin moisturized to prevent dryness and irritation",
+        "Avoid triggers such as stress, smoking, and alcohol",
+        "Maintain a healthy diet and weight",
+        "Protect skin from injuries and infections",
+        "Limit exposure to cold, dry weather",
+        "Use mild soaps and avoid harsh skin products",
+        "Follow prescribed treatment plans from a dermatologist"
+      ],
+      "description": "Psoriasis is a chronic autoimmune disease that causes rapid skin cell turnover, leading to scaling, inflammation, and redness. It is not contagious but can be triggered by stress, infections, or environmental factors. Psoriasis may also lead to psoriatic arthritis, affecting the joints.",
+      "medicines": [
+        "Topical corticosteroids (to reduce inflammation and scaling)",
+        "Vitamin D analogs (such as Calcipotriol to slow skin cell growth)",
+        "Coal tar treatments (for mild to moderate cases)",
+        "Methotrexate (for severe psoriasis and psoriatic arthritis)",
+        "Biologic drugs (such as Adalimumab, Infliximab for immune system regulation)",
+        "Phototherapy (UV light therapy to reduce symptoms)"
+      ]
+    },
+    
+    {
+      "name": "Rheumatoid Arthritis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Rheumatoid Arthritis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Salmonella",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Salmonella is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Scabies",
+      "symptoms": [
+        "Intense itching, especially at night",
+        "Red rashes or small blisters",
+        "Thin, irregular burrow tracks on the skin",
+        "Sores caused by scratching",
+        "Skin crusting (in severe cases)",
+        "Commonly affected areas: between fingers, wrists, elbows, armpits, waist, and genitals"
+      ],
+      "precautions": [
+        "Avoid close physical contact with infected individuals",
+        "Wash bedding, clothing, and towels in hot water",
+        "Vacuum furniture and carpets regularly",
+        "Do not share personal items such as clothes or towels",
+        "Apply prescribed medication properly to all affected areas",
+        "Complete the full course of treatment to prevent reinfection",
+        "Isolate infected individuals until treatment is completed"
+      ],
+      "description": "Scabies is a highly contagious skin infestation caused by the *Sarcoptes scabiei* mite. It spreads through direct skin-to-skin contact and sometimes through infested clothing or bedding. The mites burrow into the skin, causing intense itching and irritation. Effective treatment is available to eliminate the mites and manage symptoms.",
+      "medicines": [
+        "Permethrin cream (topical treatment to kill mites)",
+        "Ivermectin (oral medication for severe cases or outbreaks)",
+        "Crotamiton (alternative topical treatment)",
+        "Antihistamines (to relieve itching)",
+        "Hydrocortisone cream (to reduce inflammation and irritation)",
+        "Benzyl benzoate (used in some cases to kill mites)"
+      ]
+    },
+    
+    {
+      "name": "Shingles",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Shingles is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Sickle Cell Disease",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Sickle Cell Disease is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Syphilis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Syphilis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Toxoplasmosis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Toxoplasmosis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Trichomoniasis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Trichomoniasis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Ulcerative Colitis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Ulcerative Colitis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "West Nile Virus",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "West Nile Virus is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Yersiniosis",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Yersiniosis is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Zoster (Shingles)",
+      "symptoms": [
+        "Fever",
+        "Fatigue",
+        "Pain",
+        "Inflammation"
+      ],
+      "precautions": [
+        "Maintain hygiene",
+        "Vaccinate if available",
+        "Avoid infected individuals",
+        "Seek medical attention"
+      ],
+      "description": "Zoster (Shingles) is a disease that can have serious health effects.",
+      "medicines": [
+        "Prescribed antibiotics",
+        "Pain relievers",
+        "Supportive care",
+        "Anti-inflammatory drugs"
+      ]
+    },
+    {
+      "name": "Cancer",
+      "symptoms": [
+        "Unexplained weight loss",
+        "Persistent fatigue",
+        "Lump or swelling in any part of the body",
+        "Changes in skin (new mole, darkened skin, yellowing)",
+        "Persistent cough or difficulty swallowing",
+        "Unusual bleeding or bruising",
+        "Chronic pain in bones or joints"
+      ],
+      "precautions": [
+        "Avoid smoking and excessive alcohol consumption",
+        "Maintain a healthy diet rich in fruits and vegetables",
+        "Exercise regularly and maintain a healthy weight",
+        "Protect skin from excessive sun exposure (use sunscreen, wear protective clothing)",
+        "Get regular screenings and medical checkups",
+        "Avoid exposure to harmful chemicals and radiation",
+        "Get vaccinated for cancer-related viruses (HPV, Hepatitis B)"
+      ],
+      "description": "Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells. If not controlled, it can result in tumors, organ damage, and death. There are many types of cancer, such as lung cancer, breast cancer, prostate cancer, and leukemia. Early detection through screenings and a healthy lifestyle can help in prevention and management.",
+      "medicines": [
+        "Paclitaxel",
+        "Doxorubicin",
+        "Cisplatin",
+        "Imatinib",
+        "Trastuzumab",
+        "Pembrolizumab",
+        "Nivolumab",
+        "Tamoxifen",
+        "Anastrozole"
+      ]
+    },
+    {
+      "name": "Lung Cancer",
+      "symptoms": [
+        "Persistent cough",
+        "Coughing up blood",
+        "Shortness of breath",
+        "Chest pain",
+        "Unexplained weight loss",
+        "Fatigue",
+        "Hoarseness",
+        "Wheezing"
+      ],
+      "precautions": [
+        "Avoid smoking and exposure to tobacco smoke",
+        "Reduce exposure to pollutants and chemicals",
+        "Eat a healthy diet rich in fruits and vegetables",
+        "Exercise regularly",
+        "Get regular health checkups and screenings",
+        "Avoid exposure to asbestos and radon gas",
+        "Use protective equipment if working in hazardous environments"
+      ],
+      "description": "Lung cancer is a type of cancer that starts in the lungs. It is commonly associated with smoking but can also occur due to exposure to pollutants, chemicals, and genetic factors. Symptoms may not appear in early stages, making regular screenings important for early detection.",
+      "medicines": [
+        "Cisplatin",
+        "Carboplatin",
+        "Erlotinib",
+        "Gefitinib",
+        "Pembrolizumab",
+        "Nivolumab",
+        "Paclitaxel",
+        "Docetaxel"
+      ]
+    },
+    {
+      "name": "Thyroid Disease",
+      "symptoms": [
+        "Unexplained weight gain or loss",
+        "Fatigue",
+        "Swelling in the neck",
+        "Changes in heart rate",
+        "Hair thinning or hair loss",
+        "Sensitivity to cold or heat",
+        "Depression or mood swings",
+        "Dry skin"
+      ],
+      "precautions": [
+        "Maintain a balanced diet rich in iodine",
+        "Avoid excessive consumption of processed foods",
+        "Get regular thyroid function tests",
+        "Exercise regularly to maintain metabolism",
+        "Manage stress effectively",
+        "Avoid excessive consumption of soy-based products",
+        "Follow prescribed medication regimen if diagnosed"
+      ],
+      "description": "Thyroid disease refers to a range of disorders affecting the thyroid gland, including hypothyroidism, hyperthyroidism, goiter, and thyroid cancer. The thyroid plays a critical role in regulating metabolism, energy levels, and overall bodily functions.",
+      "medicines": [
+        "Levothyroxine",
+        "Methimazole",
+        "Propylthiouracil",
+        "Liothyronine",
+        "Radioactive iodine therapy",
+        "Beta-blockers (for symptom control)",
+        "Thyroid hormone replacement therapy"
+      ]
+    },
+    {
+      "name": "Thyroid Cancer",
+      "symptoms": [
+        "Lump or swelling in the neck",
+        "Hoarseness or voice changes",
+        "Difficulty swallowing",
+        "Pain in the throat or neck",
+        "Swollen lymph nodes in the neck",
+        "Persistent cough not related to a cold",
+        "Breathing difficulties"
+      ],
+      "precautions": [
+        "Get regular thyroid checkups, especially if there is a family history",
+        "Avoid exposure to excessive radiation",
+        "Maintain a diet rich in iodine (as per doctor's advice)",
+        "Monitor any unusual lumps or swelling in the neck",
+        "Quit smoking and avoid alcohol consumption",
+        "Follow proper medication and treatment plans if diagnosed",
+        "Consider genetic testing if at high risk"
+      ],
+      "description": "Thyroid cancer occurs when abnormal cells grow uncontrollably in the thyroid gland. It is usually detected as a lump or swelling in the neck and can be treated successfully if diagnosed early. There are different types, including papillary, follicular, medullary, and anaplastic thyroid cancer.",
+      "medicines": [
+        "Levothyroxine (to replace thyroid hormones after treatment)",
+        "Radioactive iodine therapy",
+        "Sorafenib (targeted therapy)",
+        "Lenvatinib (targeted therapy)",
+        "Doxorubicin (for advanced cases)",
+        "Surgery (thyroidectomy)",
+        "External beam radiation therapy"
+      ]
+    },
+    {
+      "name": "Heart Attack",
+      "symptoms": [
+        "Chest pain or discomfort",
+        "Shortness of breath",
+        "Pain in the arms, neck, jaw, or back",
+        "Cold sweat",
+        "Nausea or vomiting",
+        "Dizziness or lightheadedness",
+        "Extreme fatigue"
+      ],
+      "precautions": [
+        "Maintain a healthy diet low in saturated fats and cholesterol",
+        "Exercise regularly to improve heart health",
+        "Avoid smoking and excessive alcohol consumption",
+        "Control high blood pressure, diabetes, and cholesterol levels",
+        "Manage stress effectively",
+        "Maintain a healthy weight",
+        "Take prescribed medications as directed"
+      ],
+      "description": "A heart attack occurs when the blood flow to a part of the heart is blocked, usually by a clot. This causes damage to the heart muscle and can be life-threatening if not treated promptly. Symptoms can vary, and immediate medical attention is required.",
+      "medicines": [
+        "Aspirin (to prevent blood clotting)",
+        "Nitroglycerin (to relieve chest pain)",
+        "Clopidogrel (blood thinner)",
+        "Beta-blockers (to reduce heart workload)",
+        "Statins (to lower cholesterol)",
+        "ACE inhibitors (to manage blood pressure)",
+        "Thrombolytics (to dissolve blood clots)"
+      ]
+    },
+    {
+      "name": "Anxiety",
+      "symptoms": [
+        "Excessive worry or fear",
+        "Restlessness or feeling on edge",
+        "Increased heart rate (palpitations)",
+        "Sweating",
+        "Trembling or shaking",
+        "Shortness of breath",
+        "Difficulty concentrating",
+        "Irritability",
+        "Insomnia or difficulty sleeping",
+        "Gastrointestinal issues (nausea, stomach pain)"
+      ],
+      "precautions": [
+        "Practice deep breathing and relaxation techniques",
+        "Engage in regular physical exercise",
+        "Limit caffeine and alcohol intake",
+        "Maintain a healthy and balanced diet",
+        "Ensure proper sleep hygiene",
+        "Avoid stressful situations when possible",
+        "Seek social support from friends and family",
+        "Practice mindfulness and meditation",
+        "Consider professional counseling or therapy if needed"
+      ],
+      "description": "Anxiety is a mental health disorder characterized by persistent and excessive worry or fear. It can interfere with daily life and manifest with physical symptoms such as rapid heartbeat, sweating, and difficulty breathing. Anxiety can be managed through lifestyle changes, therapy, and medication when necessary.",
+      "medicines": [
+        "Selective serotonin reuptake inhibitors (SSRIs) such as Sertraline, Fluoxetine",
+        "Benzodiazepines such as Alprazolam, Lorazepam (short-term use only)",
+        "Beta-blockers such as Propranolol (for physical symptoms like rapid heartbeat)",
+        "Buspirone (for generalized anxiety disorder)",
+        "Cognitive-behavioral therapy (CBT) as a non-medication approach",
+        "Herbal supplements such as Ashwagandha or Chamomile (consult a doctor before use)"
+      ]
+    },
+    {
+      "name": "Allergies",
+      "symptoms": [
+        "Sneezing",
+        "Runny or stuffy nose",
+        "Itchy, watery eyes",
+        "Skin rashes or hives",
+        "Swelling of the face, lips, or throat",
+        "Coughing or wheezing",
+        "Shortness of breath",
+        "Nausea or vomiting (in food allergies)",
+        "Anaphylaxis (severe allergic reaction requiring immediate medical attention)"
+      ],
+      "precautions": [
+        "Avoid known allergens (pollen, dust, pet dander, certain foods, etc.)",
+        "Use air purifiers to reduce indoor allergens",
+        "Wear masks in high-pollen environments",
+        "Wash hands and face after outdoor activities",
+        "Use hypoallergenic bedding and clean regularly",
+        "Carry an epinephrine auto-injector (if prescribed for severe allergies)",
+        "Take antihistamines before exposure to known allergens",
+        "Check food labels for allergenic ingredients"
+      ],
+      "description": "Allergies occur when the immune system overreacts to harmless substances such as pollen, dust mites, pet dander, or certain foods. Symptoms range from mild (sneezing, itching) to severe (anaphylaxis). Managing allergies involves avoiding triggers, taking medications, and, in severe cases, seeking medical treatment.",
+      "medicines": [
+        "Antihistamines (e.g., Loratadine, Cetirizine, Diphenhydramine)",
+        "Decongestants (e.g., Pseudoephedrine for nasal congestion)",
+        "Corticosteroid nasal sprays (e.g., Fluticasone, Budesonide)",
+        "Leukotriene receptor antagonists (e.g., Montelukast for asthma-related allergies)",
+        "Epinephrine auto-injector (for severe allergic reactions like anaphylaxis)",
+        "Allergy shots (immunotherapy for long-term relief)"
+      ]
+    },
+    {
+      "name": "Bacterial Vaginosis",
+      "symptoms": [
+        "Thin, grayish-white vaginal discharge",
+        "Strong fishy odor, especially after intercourse",
+        "Itching or irritation in the vaginal area",
+        "Burning sensation during urination",
+        "Mild pelvic discomfort"
+      ],
+      "precautions": [
+        "Maintain good vaginal hygiene",
+        "Avoid douching, as it disrupts the natural vaginal flora",
+        "Use protection during sexual activity",
+        "Limit the number of sexual partners",
+        "Wear breathable cotton underwear",
+        "Avoid scented soaps and feminine hygiene sprays",
+        "Eat a balanced diet with probiotics (yogurt, fermented foods)"
+      ],
+      "description": "Bacterial Vaginosis (BV) is a common vaginal infection caused by an imbalance of bacteria in the vagina. It is not considered a sexually transmitted infection but is more common in sexually active women. While BV may resolve on its own, treatment is often recommended to prevent complications, especially during pregnancy.",
+      "medicines": [
+        "Metronidazole (oral or vaginal gel)",
+        "Clindamycin (cream or oral antibiotics)",
+        "Tinidazole (oral antibiotic for resistant cases)",
+        "Probiotics (to restore healthy vaginal flora)"
+      ]
+    },
+    {
+      "name": "Bone Cancer",
+      "symptoms": [
+        "Persistent bone pain that worsens over time",
+        "Swelling and tenderness near affected bones",
+        "Unexplained fractures (bone breaks easily)",
+        "Fatigue and weakness",
+        "Unintended weight loss",
+        "Limited range of motion in affected limbs",
+        "Lump or mass in the affected bone"
+      ],
+      "precautions": [
+        "Maintain a healthy diet rich in calcium and vitamin D",
+        "Engage in regular physical activity to strengthen bones",
+        "Avoid exposure to radiation unless medically necessary",
+        "Seek medical attention for persistent bone pain",
+        "Undergo regular medical checkups if at high risk",
+        "Avoid smoking and excessive alcohol consumption"
+      ],
+      "description": "Bone cancer is a rare type of cancer that originates in the bone cells. It can develop in any bone but commonly affects the long bones in the arms and legs. There are different types, including osteosarcoma, chondrosarcoma, and Ewing sarcoma. Early detection and treatment, such as surgery, chemotherapy, or radiation therapy, improve survival rates.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Methotrexate, Doxorubicin, Cisplatin)",
+        "Targeted therapy drugs (e.g., Denosumab for bone tumors)",
+        "Pain relievers (e.g., Morphine, Ibuprofen for symptom management)",
+        "Bisphosphonates (to strengthen bones and reduce fractures)",
+        "Radiation therapy (to shrink tumors before surgery)"
+      ]
+    },
+    {
+      "name": "Brain Tumors",
+      "symptoms": [
+        "Persistent headaches that worsen over time",
+        "Nausea or vomiting, especially in the morning",
+        "Seizures or convulsions",
+        "Blurred or double vision",
+        "Difficulty speaking or understanding speech",
+        "Loss of balance and coordination",
+        "Weakness or numbness in limbs",
+        "Memory loss or confusion",
+        "Mood or personality changes"
+      ],
+      "precautions": [
+        "Maintain a healthy diet rich in antioxidants",
+        "Avoid exposure to harmful radiation",
+        "Use protective headgear to prevent head injuries",
+        "Regular medical checkups for early detection",
+        "Avoid smoking and excessive alcohol consumption",
+        "Manage stress and maintain a balanced lifestyle",
+        "Stay physically active and maintain a healthy weight"
+      ],
+      "description": "Brain tumors are abnormal growths of cells in the brain, which can be benign (non-cancerous) or malignant (cancerous). Symptoms depend on the tumor's location, size, and growth rate. Treatment options include surgery, radiation therapy, chemotherapy, and targeted drug therapy.",
+      "medicines": [
+        "Corticosteroids (e.g., Dexamethasone to reduce swelling)",
+        "Anticonvulsants (e.g., Levetiracetam for seizure control)",
+        "Chemotherapy drugs (e.g., Temozolomide for malignant tumors)",
+        "Targeted therapy drugs (e.g., Bevacizumab for glioblastoma)",
+        "Pain relievers (e.g., Morphine for severe pain management)",
+        "Radiation therapy (to shrink or destroy tumor cells)"
+      ]
+    },
+    {
+      "name": "Breast Cancer (Female)",
+      "symptoms": [
+        "Lump or mass in the breast or underarm",
+        "Change in breast size or shape",
+        "Nipple discharge (other than breast milk)",
+        "Skin changes on the breast (dimpling, redness, or scaliness)",
+        "Breast pain or tenderness",
+        "Inverted nipple or nipple changes",
+        "Swelling in part of the breast",
+        "Lymph node enlargement near the armpit or collarbone"
+      ],
+      "precautions": [
+        "Perform regular breast self-exams",
+        "Schedule routine mammograms for early detection",
+        "Maintain a healthy diet and exercise regularly",
+        "Limit alcohol consumption and avoid smoking",
+        "Maintain a healthy weight, especially after menopause",
+        "Be aware of family history and discuss risk factors with a doctor",
+        "Breastfeed if possible, as it may lower the risk",
+        "Avoid prolonged use of hormone replacement therapy (HRT) without medical guidance"
+      ],
+      "description": "Breast cancer is a type of cancer that forms in the breast tissue. It is the most common cancer among women worldwide. Early detection through screening and self-exams significantly improves treatment outcomes. Treatment may involve surgery, chemotherapy, radiation therapy, hormone therapy, or targeted therapy, depending on the stage and type of cancer.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Doxorubicin, Paclitaxel, Cyclophosphamide)",
+        "Hormone therapy drugs (e.g., Tamoxifen, Letrozole for hormone-sensitive cancers)",
+        "Targeted therapy drugs (e.g., Trastuzumab for HER2-positive breast cancer)",
+        "Immunotherapy (e.g., Atezolizumab for triple-negative breast cancer)",
+        "Pain relievers (e.g., Ibuprofen, Morphine for symptom relief)",
+        "Radiation therapy (to destroy remaining cancer cells after surgery)"
+      ]
+    },
+    {
+      "name": "Breast Cancer (Male)",
+      "symptoms": [
+        "Lump or swelling in the breast tissue",
+        "Nipple pain or tenderness",
+        "Nipple discharge (sometimes bloody)",
+        "Inverted nipple or nipple changes",
+        "Redness or scaling of the nipple or breast skin",
+        "Swelling of lymph nodes near the armpit",
+        "Unexplained weight loss (in advanced cases)"
+      ],
+      "precautions": [
+        "Be aware of family history and genetic risks (BRCA1/BRCA2 mutations)",
+        "Perform regular self-exams to detect any lumps or changes",
+        "Limit alcohol consumption and avoid smoking",
+        "Maintain a healthy weight and exercise regularly",
+        "Consume a balanced diet rich in antioxidants",
+        "Avoid long-term hormone treatments unless medically necessary",
+        "Seek medical attention for any unusual breast changes"
+      ],
+      "description": "Breast cancer in men is rare but can occur due to abnormal cell growth in the breast tissue. Although men have less breast tissue than women, they can still develop breast cancer. Risk factors include age, genetic mutations, and hormonal imbalances. Early detection and treatment, including surgery, chemotherapy, and hormone therapy, can improve outcomes.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Doxorubicin, Paclitaxel, Cyclophosphamide)",
+        "Hormone therapy drugs (e.g., Tamoxifen for hormone-sensitive breast cancer)",
+        "Targeted therapy drugs (e.g., Trastuzumab for HER2-positive breast cancer)",
+        "Pain relievers (e.g., Ibuprofen, Morphine for pain management)",
+        "Immunotherapy (e.g., Atezolizumab for advanced cases)",
+        "Radiation therapy (to destroy remaining cancer cells post-surgery)"
+      ]
+    },
+    {
+      "name": "Bronchitis",
+      "symptoms": [
+        "Persistent cough with mucus (phlegm)",
+        "Shortness of breath",
+        "Chest discomfort or tightness",
+        "Fatigue and weakness",
+        "Mild fever and chills",
+        "Wheezing or difficulty breathing",
+        "Sore throat",
+        "Runny or stuffy nose (in viral bronchitis)"
+      ],
+      "precautions": [
+        "Avoid smoking and exposure to secondhand smoke",
+        "Wash hands regularly to prevent infections",
+        "Stay hydrated to thin mucus secretions",
+        "Use a humidifier to ease breathing",
+        "Get enough rest to support recovery",
+        "Avoid air pollutants and allergens",
+        "Wear a mask in polluted or dusty areas",
+        "Get vaccinated against flu and pneumonia (to reduce risk of bronchitis)"
+      ],
+      "description": "Bronchitis is an inflammation of the bronchial tubes, which carry air to and from the lungs. It can be acute (short-term, usually caused by viruses) or chronic (long-term, often due to smoking or environmental factors). Symptoms include persistent coughing, mucus production, and breathing difficulties.",
+      "medicines": [
+        "Cough suppressants (e.g., Dextromethorphan for dry cough)",
+        "Expectorants (e.g., Guaifenesin to loosen mucus)",
+        "Bronchodilators (e.g., Albuterol for wheezing and shortness of breath)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for fever and body aches)",
+        "Antibiotics (only if bacterial infection is present)",
+        "Corticosteroids (for severe inflammation in chronic bronchitis)"
+      ]
+    },
+    {
+      "name": "Kidney Stones",
+      "symptoms": [
+        "Severe pain in the lower back or side (renal colic)",
+        "Pain that radiates to the lower abdomen or groin",
+        "Blood in urine (hematuria)",
+        "Frequent urge to urinate",
+        "Painful urination",
+        "Cloudy or foul-smelling urine",
+        "Nausea and vomiting",
+        "Fever and chills (if infection is present)"
+      ],
+      "precautions": [
+        "Drink plenty of water to stay hydrated",
+        "Reduce intake of salt and processed foods",
+        "Limit consumption of oxalate-rich foods (e.g., spinach, nuts, chocolate)",
+        "Avoid excessive intake of animal protein",
+        "Maintain a balanced diet with enough calcium",
+        "Exercise regularly to prevent obesity-related risks",
+        "Limit sugary beverages and sodas",
+        "Consult a doctor if you have a family history of kidney stones"
+      ],
+      "description": "Kidney stones are hard mineral and salt deposits that form in the kidneys. They can cause severe pain when they pass through the urinary tract. Factors like dehydration, diet, and genetics contribute to their formation. Small stones may pass on their own, while larger stones may require medical intervention such as lithotripsy or surgery.",
+      "medicines": [
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for pain management)",
+        "Alpha-blockers (e.g., Tamsulosin to help pass stones more easily)",
+        "Diuretics (e.g., Thiazide diuretics to prevent stone formation)",
+        "Citrate supplements (e.g., Potassium citrate to prevent calcium stones)",
+        "Antibiotics (if infection is present)"
+      ]
+    },
+    {
+      "name": "Kidney Cancer",
+      "symptoms": [
+        "Blood in urine (hematuria)",
+        "Persistent lower back or side pain",
+        "Unexplained weight loss",
+        "Fatigue and weakness",
+        "Loss of appetite",
+        "Swelling in the abdomen or lower back",
+        "High blood pressure",
+        "Fever that comes and goes"
+      ],
+      "precautions": [
+        "Avoid smoking, as it increases the risk of kidney cancer",
+        "Maintain a healthy weight through diet and exercise",
+        "Limit exposure to harmful chemicals (e.g., industrial toxins)",
+        "Control high blood pressure and diabetes",
+        "Stay well-hydrated by drinking enough water",
+        "Eat a diet rich in fruits, vegetables, and whole grains",
+        "Limit excessive protein and salt intake",
+        "Get regular medical checkups, especially if at high risk"
+      ],
+      "description": "Kidney cancer, also known as renal cancer, begins in the kidneys and can spread to other organs if left untreated. The most common type is renal cell carcinoma. Risk factors include smoking, obesity, high blood pressure, and family history. Treatment options depend on the stage and may include surgery, targeted therapy, immunotherapy, or radiation.",
+      "medicines": [
+        "Targeted therapy drugs (e.g., Sunitinib, Pazopanib, Sorafenib)",
+        "Immunotherapy drugs (e.g., Nivolumab, Pembrolizumab, Interleukin-2)",
+        "Chemotherapy (less commonly used for kidney cancer)",
+        "Pain relievers (e.g., Acetaminophen, Morphine for symptom management)",
+        "Anti-hypertensive drugs (if kidney cancer causes high blood pressure)"
+      ]
+    },
+    {
+      "name": "Kidney Infection (Pyelonephritis)",
+      "symptoms": [
+        "Fever and chills",
+        "Pain in the lower back or side (flank pain)",
+        "Frequent urination with a strong urge",
+        "Painful or burning sensation during urination",
+        "Cloudy, dark, or foul-smelling urine",
+        "Nausea and vomiting",
+        "Fatigue and weakness",
+        "Blood in urine (hematuria)"
+      ],
+      "precautions": [
+        "Drink plenty of water to flush out bacteria",
+        "Practice good personal hygiene, especially after using the restroom",
+        "Urinate regularly and avoid holding urine for long periods",
+        "Wipe from front to back to prevent bacterial spread",
+        "Avoid excessive use of irritating feminine hygiene products",
+        "Take prescribed antibiotics as directed if prone to infections",
+        "Manage underlying conditions like diabetes that increase infection risk",
+        "Seek medical attention for recurrent urinary tract infections (UTIs)"
+      ],
+      "description": "A kidney infection, also known as pyelonephritis, is a serious urinary tract infection (UTI) that affects one or both kidneys. It is usually caused by bacteria traveling from the bladder to the kidneys. If left untreated, it can lead to complications such as kidney damage or sepsis.",
+      "medicines": [
+        "Antibiotics (e.g., Ciprofloxacin, Amoxicillin, Trimethoprim-sulfamethoxazole)",
+        "Pain relievers (e.g., Acetaminophen, Ibuprofen for fever and discomfort)",
+        "Anti-nausea medications (e.g., Ondansetron for nausea and vomiting)",
+        "Fluids and electrolytes (to maintain hydration and kidney function)"
+      ]
+    },
+    {
+      "name": "Womb (Uterus) Cancer",
+      "symptoms": [
+        "Abnormal vaginal bleeding (especially after menopause)",
+        "Pelvic pain or discomfort",
+        "Unusual vaginal discharge",
+        "Pain during intercourse",
+        "Unexplained weight loss",
+        "Frequent urination or difficulty urinating",
+        "Lower abdominal or back pain"
+      ],
+      "precautions": [
+        "Maintain a healthy weight through diet and exercise",
+        "Manage diabetes and high blood pressure",
+        "Limit intake of processed and high-fat foods",
+        "Avoid smoking and excessive alcohol consumption",
+        "Use hormone therapy cautiously under medical supervision",
+        "Regular pelvic exams and screenings (especially for postmenopausal women)",
+        "Recognize family history and discuss genetic risks with a doctor"
+      ],
+      "description": "Womb (uterus) cancer, also known as endometrial cancer, is a type of cancer that begins in the lining of the uterus. It is the most common gynecological cancer and primarily affects postmenopausal women. Risk factors include obesity, hormone imbalances, and family history. Treatment options include surgery, radiation, chemotherapy, and hormone therapy.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Paclitaxel, Carboplatin, Doxorubicin)",
+        "Hormone therapy (e.g., Medroxyprogesterone, Tamoxifen for hormone-sensitive cancer)",
+        "Targeted therapy drugs (e.g., Lenvatinib, Pembrolizumab for advanced cases)",
+        "Pain relievers (e.g., Acetaminophen, Ibuprofen for symptom relief)",
+        "Radiation therapy (for localized tumor control)"
+      ]
+    },
+    {
+      "name": "Vertigo",
+      "symptoms": [
+        "Dizziness or spinning sensation",
+        "Loss of balance or unsteadiness",
+        "Nausea or vomiting",
+        "Ringing in the ears (tinnitus)",
+        "Abnormal eye movements (nystagmus)",
+        "Sweating and dizziness",
+        "Hearing loss in some cases"
+      ],
+      "precautions": [
+        "Avoid sudden head movements or position changes",
+        "Stay hydrated and maintain a balanced diet",
+        "Limit caffeine, alcohol, and salt intake",
+        "Manage stress and anxiety through relaxation techniques",
+        "Avoid bright lights or screens during episodes",
+        "Use handrails or support when moving to prevent falls",
+        "Perform vestibular rehabilitation exercises if recommended by a doctor",
+        "Get regular checkups for underlying ear or neurological conditions"
+      ],
+      "description": "Vertigo is a sensation of dizziness or spinning, often caused by inner ear problems, vestibular disorders, or neurological conditions. Common causes include benign paroxysmal positional vertigo (BPPV), Meniere’s disease, and vestibular neuritis. Treatment depends on the underlying cause and may include medications, exercises, or lifestyle adjustments.",
+      "medicines": [
+        "Antihistamines (e.g., Meclizine, Dimenhydrinate for motion sickness)",
+        "Benzodiazepines (e.g., Diazepam, Lorazepam for severe vertigo)",
+        "Antiemetics (e.g., Promethazine, Metoclopramide for nausea and vomiting)",
+        "Vestibular suppressants (e.g., Betahistine for inner ear disorders)",
+        "Corticosteroids (e.g., Prednisone for inflammation-related vertigo)",
+        "Diuretics (e.g., Hydrochlorothiazide for Meniere’s disease)"
+      ]
+    },
+    {
+      "name": "Vomiting in Children and Babies",
+      "symptoms": [
+        "Frequent vomiting or spitting up",
+        "Dehydration (dry mouth, no tears, less urination)",
+        "Fever (in some cases)",
+        "Abdominal pain or discomfort",
+        "Lethargy or weakness",
+        "Refusing to eat or drink",
+        "Irritability or excessive crying"
+      ],
+      "precautions": [
+        "Ensure the child stays hydrated with small sips of water or oral rehydration solutions",
+        "Avoid giving solid foods until vomiting stops",
+        "Feed small, frequent meals instead of large portions",
+        "Keep the child in an upright position after feeding",
+        "Avoid dairy or sugary drinks if they worsen symptoms",
+        "Ensure proper hygiene to prevent infections",
+        "Consult a doctor if vomiting is persistent, has blood, or is accompanied by high fever"
+      ],
+      "description": "Vomiting in children and babies can be caused by infections, food intolerance, motion sickness, or gastrointestinal issues. It is essential to monitor for dehydration and provide proper care. In most cases, vomiting resolves on its own, but medical attention is needed for severe or prolonged symptoms.",
+      "medicines": [
+        "Oral rehydration solutions (e.g., Pedialyte for dehydration)",
+        "Anti-nausea medication (e.g., Ondansetron for severe vomiting, only if prescribed)",
+        "Probiotics (e.g., Lactobacillus for digestive balance)",
+        "Fever reducers (e.g., Acetaminophen if fever is present)",
+        "Electrolyte drinks (for mild cases to prevent dehydration)"
+      ]
+    },
+    {
+      "name": "Vomiting in Adults",
+      "symptoms": [
+        "Nausea followed by forceful expulsion of stomach contents",
+        "Dehydration (dry mouth, dizziness, reduced urination)",
+        "Abdominal pain or discomfort",
+        "Weakness and fatigue",
+        "Sweating and clamminess",
+        "Fever (if caused by an infection)",
+        "Headache or lightheadedness"
+      ],
+      "precautions": [
+        "Drink small sips of water or oral rehydration solutions to stay hydrated",
+        "Avoid solid foods until vomiting stops",
+        "Stick to a bland diet (e.g., bananas, rice, applesauce, toast)",
+        "Rest and avoid physical exertion",
+        "Avoid alcohol, caffeine, and dairy products until recovery",
+        "Identify and avoid food triggers (e.g., spicy, fatty, or contaminated foods)",
+        "Take medications only as prescribed for nausea and vomiting",
+        "Seek medical attention if vomiting is persistent, contains blood, or is accompanied by severe pain"
+      ],
+      "description": "Vomiting in adults can be caused by food poisoning, infections, motion sickness, pregnancy, gastrointestinal disorders, or underlying medical conditions. While most cases resolve with home care, prolonged vomiting may lead to dehydration and require medical attention.",
+      "medicines": [
+        "Oral rehydration solutions (e.g., ORS packets for dehydration prevention)",
+        "Antiemetics (e.g., Ondansetron, Promethazine for nausea and vomiting)",
+        "Proton pump inhibitors (e.g., Omeprazole for acid-related vomiting)",
+        "Antacids (e.g., Ranitidine, Calcium carbonate for indigestion-related vomiting)",
+        "Pain relievers (e.g., Acetaminophen for fever or headache if needed)"
+      ]
+    },
+    {
+      "name": "Urinary Tract Infection (UTI)",
+      "symptoms": [
+        "Burning sensation during urination",
+        "Frequent urge to urinate",
+        "Cloudy, dark, or strong-smelling urine",
+        "Lower abdominal or pelvic pain",
+        "Fever and chills (in severe cases)",
+        "Blood in urine (hematuria)",
+        "Feeling tired or shaky"
+      ],
+      "precautions": [
+        "Drink plenty of water to flush out bacteria",
+        "Urinate regularly and do not hold urine for long periods",
+        "Wipe from front to back to prevent bacteria from spreading",
+        "Avoid using irritating feminine hygiene products",
+        "Wear breathable cotton underwear and avoid tight clothing",
+        "Take showers instead of baths",
+        "Urinate after sexual activity to reduce infection risk",
+        "Avoid excessive caffeine and alcohol, which can irritate the bladder"
+      ],
+      "description": "A urinary tract infection (UTI) is a bacterial infection affecting any part of the urinary system, including the bladder, kidneys, ureters, and urethra. It is more common in women but can affect men as well. UTIs can cause discomfort and, if left untreated, may lead to serious kidney infections.",
+      "medicines": [
+        "Antibiotics (e.g., Nitrofurantoin, Trimethoprim-sulfamethoxazole, Ciprofloxacin)",
+        "Pain relievers (e.g., Phenazopyridine for urinary discomfort, Acetaminophen for fever)",
+        "Probiotics (e.g., Lactobacillus for gut and urinary health)",
+        "Cranberry supplements (may help prevent recurring UTIs)",
+        "Increased water intake and electrolyte balance solutions"
+      ]
+    },
+    {
+      "name": "Thyroid Disorders",
+      "symptoms": [
+        "Unexplained weight gain or weight loss",
+        "Fatigue and weakness",
+        "Changes in heart rate (slow in hypothyroidism, fast in hyperthyroidism)",
+        "Swelling in the neck (goiter)",
+        "Hair thinning or hair loss",
+        "Dry skin or excessive sweating",
+        "Mood changes (depression, anxiety, irritability)",
+        "Sensitivity to cold (hypothyroidism) or heat (hyperthyroidism)"
+      ],
+      "precautions": [
+        "Maintain a balanced diet rich in iodine, selenium, and zinc",
+        "Regularly check thyroid hormone levels if at risk",
+        "Manage stress through yoga, meditation, and relaxation techniques",
+        "Avoid excessive consumption of goitrogenic foods (e.g., cabbage, soy, broccoli) if advised",
+        "Ensure adequate vitamin D and B12 levels",
+        "Stay physically active to maintain metabolism",
+        "Take prescribed medications consistently",
+        "Avoid self-medicating with herbal or iodine supplements without medical advice"
+      ],
+      "description": "Thyroid disorders include hypothyroidism (underactive thyroid) and hyperthyroidism (overactive thyroid). The thyroid gland regulates metabolism, energy, and hormone balance. Disorders may result from autoimmune conditions like Hashimoto’s thyroiditis or Graves’ disease, iodine deficiency, or genetic factors.",
+      "medicines": [
+        "Levothyroxine (for hypothyroidism to replace thyroid hormones)",
+        "Methimazole, Propylthiouracil (for hyperthyroidism to reduce hormone production)",
+        "Beta-blockers (e.g., Propranolol to manage hyperthyroidism symptoms)",
+        "Radioactive iodine therapy (for severe hyperthyroidism or thyroid cancer)",
+        "Surgical removal of the thyroid (for severe cases or cancer)",
+        "Vitamin D and selenium supplements (if deficiency-related)"
+      ]
+    },
+    {
+      "name": "Testicular Cancer",
+      "symptoms": [
+        "A lump or swelling in one testicle",
+        "A feeling of heaviness in the scrotum",
+        "Dull ache or pain in the lower abdomen or groin",
+        "Enlargement or tenderness of the breasts (gynecomastia)",
+        "Sudden collection of fluid in the scrotum",
+        "Pain or discomfort in the testicle or scrotum",
+        "Unexplained fatigue or general feeling of unwellness"
+      ],
+      "precautions": [
+        "Perform regular testicular self-examinations to detect lumps early",
+        "Maintain a healthy lifestyle with a balanced diet and regular exercise",
+        "Avoid exposure to harmful chemicals and radiation",
+        "Wear protective gear during sports to prevent testicular injury",
+        "Limit excessive alcohol consumption and avoid smoking",
+        "Seek medical advice if you notice any testicular changes",
+        "Discuss family history with a doctor if testicular cancer runs in the family"
+      ],
+      "description": "Testicular cancer is a rare but highly treatable cancer that develops in the testicles, typically affecting younger men between the ages of 15 and 40. It may present as a painless lump or swelling and can spread if not detected early. Risk factors include undescended testicles, family history, and genetic conditions.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Bleomycin, Etoposide, Cisplatin for advanced stages)",
+        "Radiation therapy (used for seminoma-type testicular cancer)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for pain management)",
+        "Hormone therapy (if needed after treatment)",
+        "Surgical removal of the affected testicle (orchiectomy, the primary treatment)"
+      ]
+    },
+    {
+      "name": "Threadworms (Pinworms)",
+      "symptoms": [
+        "Itching around the anus, especially at night",
+        "Disturbed sleep due to itching and discomfort",
+        "Irritability and restlessness",
+        "Mild stomach pain or nausea",
+        "Loss of appetite",
+        "Visible white, thread-like worms in stool or around the anus"
+      ],
+      "precautions": [
+        "Wash hands thoroughly with soap and water, especially before eating and after using the toilet",
+        "Keep fingernails short and discourage nail-biting",
+        "Wash bed linens, clothes, and towels in hot water regularly",
+        "Clean toilet seats, bathroom surfaces, and household items frequently",
+        "Avoid scratching the anal area to prevent reinfection",
+        "Ensure all family members are treated if one person is infected",
+        "Wear tight-fitting underwear to prevent eggs from spreading",
+        "Take a morning shower to remove eggs from the skin"
+      ],
+      "description": "Threadworms (pinworms) are tiny parasitic worms that infect the intestines, commonly affecting children. They cause intense itching around the anus, especially at night. The infection spreads through contact with contaminated surfaces, hands, or food. Proper hygiene and medication help eliminate the worms.",
+      "medicines": [
+        "Mebendazole (common treatment for threadworms)",
+        "Albendazole (alternative treatment for pinworms)",
+        "Pyrantel pamoate (available over-the-counter for worm infections)",
+        "Antihistamines (e.g., Loratadine for itching relief if severe)",
+        "Zinc oxide ointment (to soothe irritated skin around the anus)"
+      ]
+    },
+    {
+      "name": "Thyroid Cancer",
+      "symptoms": [
+        "A lump or swelling in the neck",
+        "Hoarseness or voice changes",
+        "Difficulty swallowing",
+        "Pain in the throat or neck",
+        "Swollen lymph nodes in the neck",
+        "Persistent cough not caused by a cold",
+        "Shortness of breath"
+      ],
+      "precautions": [
+        "Regular neck self-examinations to detect lumps early",
+        "Maintain a healthy diet rich in iodine and antioxidants",
+        "Avoid excessive radiation exposure to the neck",
+        "Undergo routine thyroid function tests if at risk",
+        "Seek medical advice if experiencing persistent throat discomfort or swelling",
+        "Limit exposure to environmental toxins and chemicals",
+        "Follow doctor’s recommendations for managing thyroid nodules"
+      ],
+      "description": "Thyroid cancer is a type of cancer that develops in the thyroid gland, located at the base of the neck. It is more common in women and may be associated with genetic factors, radiation exposure, or existing thyroid conditions. Most thyroid cancers are treatable with early detection and proper medical intervention.",
+      "medicines": [
+        "Levothyroxine (to replace thyroid hormones after treatment)",
+        "Radioactive iodine therapy (used to destroy remaining cancer cells after surgery)",
+        "Chemotherapy drugs (e.g., Doxorubicin for advanced cases)",
+        "Targeted therapy drugs (e.g., Sorafenib, Lenvatinib for aggressive thyroid cancer)",
+        "Pain relievers (e.g., Acetaminophen for post-surgical discomfort)"
+      ]
+    },
+    {
+      "name": "Tooth Decay (Cavities)",
+      "symptoms": [
+        "Toothache or spontaneous pain",
+        "Visible holes or pits in teeth",
+        "Sensitivity to hot, cold, or sweet foods and drinks",
+        "Pain when biting or chewing",
+        "Brown, black, or white staining on teeth",
+        "Swelling or pus around the affected tooth (in severe cases)",
+        "Bad breath or an unpleasant taste in the mouth"
+      ],
+      "precautions": [
+        "Brush teeth twice daily with fluoride toothpaste",
+        "Floss daily to remove plaque between teeth",
+        "Reduce consumption of sugary and acidic foods and drinks",
+        "Drink plenty of water, especially fluoridated water",
+        "Visit the dentist regularly for check-ups and cleanings",
+        "Use antibacterial mouthwash to reduce plaque buildup",
+        "Avoid smoking and excessive alcohol consumption",
+        "Chew sugar-free gum to stimulate saliva production"
+      ],
+      "description": "Tooth decay, also known as dental caries or cavities, occurs when bacteria in the mouth produce acids that damage the tooth enamel. It is a common oral health problem that can lead to pain, infections, and tooth loss if untreated. Proper oral hygiene and regular dental care help prevent cavities.",
+      "medicines": [
+        "Fluoride toothpaste or mouthwash (to strengthen enamel)",
+        "Antibacterial mouth rinse (e.g., Chlorhexidine for plaque control)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for toothache relief)",
+        "Calcium and phosphate-based remineralizing agents (e.g., CPP-ACP creams)",
+        "Dental fillings, crowns, or root canal treatment (for advanced decay)"
+      ]
+    },
+    {
+      "name": "Stomach Cancer (Gastric Cancer)",
+      "symptoms": [
+        "Persistent indigestion or heartburn",
+        "Unexplained weight loss",
+        "Loss of appetite",
+        "Nausea or vomiting (sometimes with blood)",
+        "Stomach pain or discomfort",
+        "Feeling full after eating small amounts",
+        "Fatigue and weakness",
+        "Black, tarry stools (indicating internal bleeding)"
+      ],
+      "precautions": [
+        "Eat a healthy diet rich in fruits, vegetables, and whole grains",
+        "Avoid processed and smoked foods high in salt and nitrates",
+        "Limit alcohol consumption and avoid smoking",
+        "Maintain a healthy weight and exercise regularly",
+        "Seek medical attention for persistent digestive issues",
+        "Manage Helicobacter pylori (H. pylori) infection with proper treatment",
+        "Undergo regular screenings if at high risk due to family history"
+      ],
+      "description": "Stomach cancer, also known as gastric cancer, develops in the lining of the stomach. It often progresses silently in the early stages, making early detection difficult. Risk factors include Helicobacter pylori infection, smoking, poor diet, and a family history of gastric cancer. Treatment options depend on the stage and may include surgery, chemotherapy, or radiation therapy.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Cisplatin, 5-Fluorouracil, Paclitaxel)",
+        "Targeted therapy drugs (e.g., Trastuzumab for HER2-positive gastric cancer)",
+        "Immunotherapy (e.g., Nivolumab for advanced stages)",
+        "Pain relievers (e.g., Acetaminophen, Ibuprofen for symptom relief)",
+        "Proton pump inhibitors (PPIs) (e.g., Omeprazole for acid control)",
+        "Antiemetic drugs (e.g., Ondansetron to reduce nausea)"
+      ]
+    },
+    {
+      "name": "Skin Cancer",
+      "symptoms": [
+        "New or changing mole or skin growth",
+        "A sore that does not heal",
+        "Itching, tenderness, or pain in a mole or skin lesion",
+        "Redness or swelling beyond the border of a mole",
+        "Scaly or rough patches on the skin",
+        "Bleeding or oozing from a skin lesion",
+        "Dark streaks under nails (in some cases)"
+      ],
+      "precautions": [
+        "Avoid excessive sun exposure, especially during peak hours (10 AM - 4 PM)",
+        "Use broad-spectrum sunscreen (SPF 30 or higher) daily",
+        "Wear protective clothing, hats, and sunglasses outdoors",
+        "Avoid tanning beds and artificial UV exposure",
+        "Regularly check your skin for any new or changing moles or spots",
+        "Visit a dermatologist for routine skin screenings",
+        "Maintain a healthy diet rich in antioxidants to support skin health"
+      ],
+      "description": "Skin cancer is the abnormal growth of skin cells, often caused by excessive UV exposure. The most common types include basal cell carcinoma, squamous cell carcinoma, and melanoma, the most aggressive form. Early detection and prevention are key to reducing the risk and severity of skin cancer.",
+      "medicines": [
+        "Topical chemotherapy (e.g., 5-Fluorouracil for early-stage cancers)",
+        "Immunotherapy (e.g., Pembrolizumab for advanced melanoma)",
+        "Targeted therapy (e.g., Vemurafenib for specific genetic mutations in melanoma)",
+        "Pain relievers (e.g., Acetaminophen, Ibuprofen for symptom management)",
+        "Surgical excision or Mohs surgery (for localized skin cancer)",
+        "Radiation therapy (used for advanced or inoperable cases)"
+      ]
+    },
+    {
+      "name": "Ringworm and Other Fungal Infections",
+      "symptoms": [
+        "Red, scaly, or itchy patches on the skin",
+        "Circular rash with a raised border (common in ringworm)",
+        "Blisters or cracking of the skin",
+        "White patches on the tongue or inside the mouth (oral thrush)",
+        "Brittle, discolored, or thickened nails (nail fungus)",
+        "Burning or itching between the toes (athlete's foot)",
+        "Unpleasant odor in affected areas"
+      ],
+      "precautions": [
+        "Keep skin clean and dry, especially in moist areas like the feet and groin",
+        "Avoid sharing personal items such as towels, socks, and shoes",
+        "Wear breathable, moisture-wicking clothing",
+        "Change socks and underwear daily",
+        "Use antifungal powders or sprays in shoes and socks",
+        "Disinfect floors and shared surfaces to prevent spreading",
+        "Avoid walking barefoot in public places like locker rooms and pools"
+      ],
+      "description": "Ringworm and other fungal infections are caused by dermatophytes, yeast, or mold. These infections affect the skin, scalp, nails, and mucous membranes. Common fungal infections include athlete's foot, jock itch, nail fungus, and oral thrush. Proper hygiene, antifungal treatments, and preventive measures can help manage and prevent recurrence.",
+      "medicines": [
+        "Topical antifungals (e.g., Clotrimazole, Miconazole, Terbinafine for mild infections)",
+        "Oral antifungals (e.g., Fluconazole, Itraconazole for severe cases)",
+        "Antifungal shampoos (e.g., Ketoconazole for scalp infections)",
+        "Antifungal nail treatments (e.g., Ciclopirox, Efinaconazole for nail fungus)",
+        "Antiseptic creams (e.g., Tolnaftate to prevent secondary infections)",
+        "Hydrocortisone (to reduce itching and inflammation)"
+      ]
+    },
+    {
+      "name": "Pulmonary Hypertension",
+      "symptoms": [
+        "Shortness of breath, especially during activity",
+        "Fatigue and weakness",
+        "Chest pain or pressure",
+        "Dizziness or fainting",
+        "Swelling in the ankles, legs, or abdomen",
+        "Bluish lips or skin (cyanosis)",
+        "Rapid heartbeat or palpitations"
+      ],
+      "precautions": [
+        "Maintain a heart-healthy diet low in salt and processed foods",
+        "Engage in light, regular physical activity as recommended by a doctor",
+        "Avoid smoking and limit alcohol consumption",
+        "Monitor oxygen levels and seek supplemental oxygen therapy if necessary",
+        "Take prescribed medications regularly and follow up with a cardiologist",
+        "Manage underlying conditions such as lung disease or heart failure",
+        "Avoid high altitudes, as low oxygen levels can worsen symptoms",
+        "Reduce stress and practice relaxation techniques"
+      ],
+      "description": "Pulmonary hypertension is a condition in which high blood pressure occurs in the arteries of the lungs, leading to increased strain on the heart. It can be caused by heart or lung diseases, genetic factors, or unknown reasons (idiopathic pulmonary hypertension). Without treatment, it can progress to heart failure.",
+      "medicines": [
+        "Endothelin receptor antagonists (e.g., Bosentan, Ambrisentan to relax blood vessels)",
+        "Phosphodiesterase inhibitors (e.g., Sildenafil, Tadalafil to improve blood flow)",
+        "Prostacyclin analogs (e.g., Epoprostenol, Treprostinil to dilate blood vessels)",
+        "Diuretics (e.g., Furosemide to reduce fluid buildup)",
+        "Blood thinners (e.g., Warfarin to prevent clot formation)",
+        "Oxygen therapy (to improve oxygen levels in the blood)"
+      ]
+    },
+    {
+      "name": "Obesity",
+      "symptoms": [
+        "Excess body fat accumulation",
+        "Shortness of breath with mild activity",
+        "Increased sweating",
+        "Difficulty sleeping (sleep apnea)",
+        "Joint and back pain",
+        "Fatigue and low energy levels",
+        "Increased risk of heart disease, diabetes, and high blood pressure"
+      ],
+      "precautions": [
+        "Maintain a balanced diet rich in fruits, vegetables, and whole grains",
+        "Avoid sugary drinks, processed foods, and excessive calorie intake",
+        "Engage in regular physical activity (at least 150 minutes per week)",
+        "Monitor portion sizes and practice mindful eating",
+        "Stay hydrated by drinking plenty of water",
+        "Get enough sleep to regulate metabolism and hormones",
+        "Manage stress through meditation, yoga, or counseling",
+        "Seek medical advice for weight management plans"
+      ],
+      "description": "Obesity is a chronic condition characterized by excessive body fat that increases the risk of various health issues, including heart disease, diabetes, hypertension, and joint problems. It is primarily caused by an imbalance between calorie intake and energy expenditure, often influenced by genetic, behavioral, and environmental factors.",
+      "medicines": [
+        "Orlistat (reduces fat absorption)",
+        "Liraglutide (appetite suppressant and weight loss aid)",
+        "Phentermine-Topiramate (appetite suppressant)",
+        "Metformin (for weight management in diabetics)",
+        "Bariatric surgery (for severe obesity cases)",
+        "Lifestyle changes (diet and exercise as primary treatment)"
+      ]
+    },
+    {
+      "name": "Mouth Cancer",
+      "symptoms": [
+        "Persistent sores or ulcers in the mouth that do not heal",
+        "Red or white patches inside the mouth",
+        "Lumps or thickened areas in the cheek or tongue",
+        "Difficulty chewing, swallowing, or speaking",
+        "Unexplained bleeding in the mouth",
+        "Persistent sore throat or hoarseness",
+        "Loose teeth or ill-fitting dentures",
+        "Numbness or pain in the mouth or lips"
+      ],
+      "precautions": [
+        "Avoid tobacco products, including cigarettes and chewing tobacco",
+        "Limit alcohol consumption",
+        "Maintain good oral hygiene and visit a dentist regularly",
+        "Eat a healthy diet rich in fruits and vegetables",
+        "Avoid excessive sun exposure on the lips and use lip balm with SPF",
+        "Get vaccinated against HPV (Human Papillomavirus), a risk factor for oral cancer",
+        "Seek medical attention for persistent mouth sores or changes"
+      ],
+      "description": "Mouth cancer, or oral cancer, refers to the abnormal growth of cells in the mouth, including the lips, tongue, gums, and inner cheeks. It is often linked to tobacco use, heavy alcohol consumption, and HPV infection. Early detection improves treatment outcomes, and prevention includes lifestyle changes and regular dental checkups.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Cisplatin, Fluorouracil)",
+        "Targeted therapy (e.g., Cetuximab for advanced cases)",
+        "Pain management (e.g., Acetaminophen, Ibuprofen, Morphine for severe pain)",
+        "Nutritional support (e.g., high-calorie supplements for difficulty eating)",
+        "Surgical removal of tumors (for localized cases)",
+        "Radiation therapy (to destroy cancer cells and shrink tumors)"
+      ]
+    },
+    {
+      "name": "Mouth Ulcer",
+      "symptoms": [
+        "Painful sores inside the mouth (cheeks, tongue, gums, or lips)",
+        "Round or oval-shaped ulcers with a white, yellow, or red border",
+        "Burning or tingling sensation before ulcers appear",
+        "Difficulty eating, drinking, or speaking",
+        "Swelling around the affected area",
+        "Mild fever (in severe cases)",
+        "Recurrent ulcers in some individuals"
+      ],
+      "precautions": [
+        "Avoid spicy, acidic, or rough-textured foods that can irritate ulcers",
+        "Maintain good oral hygiene by brushing and flossing regularly",
+        "Use a soft-bristled toothbrush to prevent irritation",
+        "Stay hydrated and consume a balanced diet rich in vitamins B12, iron, and folate",
+        "Avoid chewing tobacco and smoking",
+        "Reduce stress through relaxation techniques like meditation or yoga",
+        "Use an antiseptic mouthwash or salt water rinse to prevent infection"
+      ],
+      "description": "Mouth ulcers, also known as canker sores, are painful sores that develop inside the mouth. They can be caused by stress, vitamin deficiencies, injury, hormonal changes, or certain medical conditions. While most mouth ulcers heal on their own within 1-2 weeks, severe or persistent cases may require medical treatment.",
+      "medicines": [
+        "Topical anesthetics (e.g., Benzocaine gel, Lidocaine for pain relief)",
+        "Antiseptic mouthwashes (e.g., Chlorhexidine to prevent infection)",
+        "Anti-inflammatory gels (e.g., Triamcinolone for severe cases)",
+        "Vitamin supplements (e.g., Vitamin B12, Iron, Folate for deficiency-related ulcers)",
+        "Pain relievers (e.g., Paracetamol, Ibuprofen for discomfort)",
+        "Oral steroids (for severe or recurrent ulcers under medical supervision)"
+      ]
+    },
+    {
+      "name": "Migraine",
+      "symptoms": [
+        "Severe, throbbing headache, usually on one side of the head",
+        "Nausea and vomiting",
+        "Sensitivity to light, sound, or smells",
+        "Blurred vision or visual disturbances (aura)",
+        "Dizziness or lightheadedness",
+        "Tingling or numbness in the face or extremities",
+        "Fatigue and difficulty concentrating"
+      ],
+      "precautions": [
+        "Maintain a regular sleep schedule and get enough rest",
+        "Avoid known migraine triggers such as caffeine, alcohol, and processed foods",
+        "Stay hydrated and eat regular, balanced meals",
+        "Manage stress through relaxation techniques like meditation and yoga",
+        "Limit exposure to bright lights and loud noises",
+        "Engage in regular physical activity, but avoid overexertion",
+        "Keep a migraine diary to track triggers and symptoms",
+        "Consult a doctor for appropriate treatment if migraines are frequent or severe"
+      ],
+      "description": "Migraine is a neurological condition characterized by intense, recurrent headaches that can be accompanied by nausea, sensitivity to light and sound, and visual disturbances. It can be triggered by stress, certain foods, hormonal changes, or environmental factors. Treatment focuses on symptom relief and prevention.",
+      "medicines": [
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for mild migraines)",
+        "Triptans (e.g., Sumatriptan, Rizatriptan to reduce inflammation and relieve pain)",
+        "Ergotamine (for migraines that last more than 48 hours)",
+        "Anti-nausea medications (e.g., Metoclopramide, Domperidone)",
+        "Beta-blockers (e.g., Propranolol for migraine prevention)",
+        "Antidepressants (e.g., Amitriptyline for chronic migraines)",
+        "CGRP inhibitors (e.g., Erenumab, Fremanezumab for severe cases)"
+      ]
+    },
+    {
+      "name": "Miscarriage",
+      "symptoms": [
+        "Vaginal bleeding or spotting",
+        "Cramping or abdominal pain",
+        "Passing tissue or clots from the vagina",
+        "Loss of pregnancy symptoms (e.g., nausea, breast tenderness)",
+        "Lower back pain",
+        "Fever or chills (in cases of infection)"
+      ],
+      "precautions": [
+        "Avoid smoking, alcohol, and illicit drugs",
+        "Maintain a healthy diet rich in essential vitamins and minerals",
+        "Stay hydrated and get adequate rest",
+        "Manage stress through relaxation techniques like yoga and meditation",
+        "Avoid heavy lifting and strenuous physical activity",
+        "Regular prenatal checkups to monitor pregnancy health",
+        "Address underlying medical conditions (e.g., diabetes, thyroid disorders)",
+        "Seek medical advice if experiencing unusual symptoms during pregnancy"
+      ],
+      "description": "A miscarriage is the loss of a pregnancy before the 20th week. It can be caused by genetic abnormalities, infections, hormonal imbalances, or maternal health conditions. Symptoms often include vaginal bleeding, cramping, and passing of tissue. While many miscarriages occur due to uncontrollable factors, proper prenatal care can help reduce risks.",
+      "medicines": [
+        "Misoprostol (to help pass remaining pregnancy tissue in early miscarriage)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for pain management)",
+        "Antibiotics (if an infection is present)",
+        "Hormonal therapy (e.g., Progesterone in cases of hormone-related pregnancy loss)",
+        "Blood thinners (e.g., Heparin, Aspirin for clotting disorders affecting pregnancy)",
+        "Emotional support and counseling for mental well-being"
+      ]
+    },
+    {
+      "name": "Malnutrition",
+      "symptoms": [
+        "Unintentional weight loss",
+        "Fatigue and weakness",
+        "Pale or dry skin",
+        "Hair thinning or hair loss",
+        "Delayed wound healing",
+        "Muscle wasting or weakness",
+        "Swelling in the legs, feet, or abdomen (in severe cases)",
+        "Frequent infections due to a weakened immune system",
+        "Irritability, mood changes, or difficulty concentrating"
+      ],
+      "precautions": [
+        "Consume a balanced diet rich in proteins, vitamins, and minerals",
+        "Increase intake of nutrient-dense foods such as fruits, vegetables, whole grains, and lean proteins",
+        "Ensure adequate hydration by drinking enough water",
+        "Avoid excessive consumption of processed foods and sugary drinks",
+        "Provide nutritional supplements if recommended by a doctor",
+        "Regular health checkups to monitor nutritional status",
+        "Address underlying medical conditions affecting nutrient absorption",
+        "Encourage proper infant and child nutrition, including breastfeeding when possible"
+      ],
+      "description": "Malnutrition is a condition that occurs when the body does not get enough essential nutrients due to an imbalanced diet, poor absorption, or medical conditions. It can lead to weakness, poor immunity, and severe health complications if not treated. Malnutrition affects people of all ages, but it is particularly dangerous in children, the elderly, and those with chronic illnesses.",
+      "medicines": [
+        "Multivitamins and mineral supplements (e.g., Vitamin A, Iron, Zinc, B-complex)",
+        "Nutritional supplements (e.g., high-calorie and high-protein drinks)",
+        "Oral rehydration solutions (for cases involving dehydration)",
+        "Parenteral nutrition (IV nutrition for severe malnutrition)",
+        "Specialized dietary plans (under medical supervision)",
+        "Treatment of underlying conditions affecting nutrient absorption (e.g., deworming medications for parasitic infections)"
+      ]
+    },
+    {
+      "name": "Lymphoedema",
+      "symptoms": [
+        "Swelling in the arms, legs, or other parts of the body",
+        "Heaviness or tightness in the affected limb",
+        "Restricted range of motion",
+        "Recurring infections in the affected area",
+        "Hardening or thickening of the skin (fibrosis)",
+        "Aching or discomfort in the swollen area",
+        "Skin discoloration or changes in texture",
+        "Fluid leakage from the skin in severe cases"
+      ],
+      "precautions": [
+        "Avoid injuries, cuts, or burns on the affected area to prevent infections",
+        "Maintain proper hygiene and moisturize the skin to prevent dryness",
+        "Wear compression garments to reduce swelling and improve circulation",
+        "Elevate the affected limb when resting",
+        "Engage in gentle exercises to promote lymphatic drainage",
+        "Avoid tight clothing or accessories that restrict lymph flow",
+        "Maintain a healthy weight and balanced diet",
+        "Seek medical advice if swelling worsens or infections occur"
+      ],
+      "description": "Lymphoedema is a long-term condition caused by a buildup of lymphatic fluid in tissues, leading to swelling, discomfort, and an increased risk of infections. It can be congenital (primary) or result from damage to the lymphatic system due to surgery, cancer treatment, infections, or other health conditions.",
+      "medicines": [
+        "Antibiotics (e.g., Amoxicillin, Flucloxacillin for infections)",
+        "Pain relievers (e.g., Paracetamol, Ibuprofen for discomfort)",
+        "Diuretics (in some cases, to reduce fluid retention)",
+        "Lymphatic drainage therapy (manual lymphatic drainage by a therapist)",
+        "Compression therapy (specialized bandages or garments to control swelling)",
+        "Skin care treatments (to prevent infections and complications)"
+      ]
+    },
+    {
+      "name": "Liver Cancer",
+      "symptoms": [
+        "Unexplained weight loss",
+        "Loss of appetite",
+        "Upper abdominal pain or discomfort",
+        "Swelling or bloating in the abdomen",
+        "Jaundice (yellowing of the skin and eyes)",
+        "Nausea and vomiting",
+        "Fatigue and weakness",
+        "Dark-colored urine",
+        "Pale or chalky stools"
+      ],
+      "precautions": [
+        "Avoid excessive alcohol consumption",
+        "Maintain a healthy weight and balanced diet",
+        "Get vaccinated against hepatitis B",
+        "Manage chronic liver diseases (e.g., hepatitis C, cirrhosis)",
+        "Limit exposure to toxins and chemicals harmful to the liver",
+        "Exercise regularly to maintain overall health",
+        "Avoid smoking and tobacco use",
+        "Undergo regular liver screenings if at high risk"
+      ],
+      "description": "Liver cancer is a malignant tumor that originates in the liver cells. It is commonly linked to chronic liver disease, hepatitis infections, and cirrhosis. Symptoms may not appear in the early stages, making early diagnosis crucial. Treatment options depend on the stage and severity of the cancer.",
+      "medicines": [
+        "Targeted therapy drugs (e.g., Sorafenib, Lenvatinib for advanced liver cancer)",
+        "Immunotherapy (e.g., Atezolizumab, Nivolumab to boost immune response)",
+        "Chemotherapy (e.g., Doxorubicin, Cisplatin in advanced cases)",
+        "Pain relievers (e.g., Paracetamol, Ibuprofen for symptom management)",
+        "Antiviral medications (for hepatitis-related liver cancer)",
+        "Liver transplant or surgery (for eligible patients)"
+      ]
+    },
+    {
+      "name": "Liver Tumors",
+      "symptoms": [
+        "Abdominal pain or discomfort, especially in the upper right side",
+        "Unexplained weight loss",
+        "Loss of appetite",
+        "Nausea and vomiting",
+        "Swelling or bloating in the abdomen",
+        "Jaundice (yellowing of the skin and eyes)",
+        "Fatigue and weakness",
+        "Dark-colored urine",
+        "Pale or chalky stools"
+      ],
+      "precautions": [
+        "Limit alcohol consumption to reduce liver damage",
+        "Maintain a healthy weight and balanced diet",
+        "Avoid exposure to hepatitis B and C by practicing safe hygiene and getting vaccinated",
+        "Monitor liver health if diagnosed with cirrhosis or chronic liver disease",
+        "Undergo regular medical screenings if at high risk",
+        "Avoid unnecessary exposure to environmental toxins and harmful chemicals",
+        "Exercise regularly to support liver function",
+        "Consult a doctor for early detection and treatment"
+      ],
+      "description": "Liver tumors are abnormal growths that develop in the liver. They can be benign (non-cancerous) or malignant (cancerous). While benign tumors usually do not cause severe symptoms, malignant tumors, such as hepatocellular carcinoma, can be life-threatening if not treated early. Risk factors include chronic liver diseases, hepatitis infections, and cirrhosis.",
+      "medicines": [
+        "Targeted therapy drugs (e.g., Sorafenib, Lenvatinib for cancerous liver tumors)",
+        "Immunotherapy (e.g., Atezolizumab, Nivolumab for malignant tumors)",
+        "Pain relievers (e.g., Acetaminophen, Ibuprofen for symptom relief)",
+        "Antiviral medications (e.g., Tenofovir, Entecavir for hepatitis-related tumors)",
+        "Chemotherapy (e.g., Doxorubicin, Cisplatin in cases of malignant tumors)",
+        "Surgical removal or liver transplant (for eligible patients with large or malignant tumors)"
+      ]
+    },
+    {
+      "name": "Infertility",
+      "symptoms": [
+        "Inability to conceive after one year of regular, unprotected intercourse",
+        "Irregular or absent menstrual cycles (in women)",
+        "Painful periods or abnormal bleeding",
+        "Hormonal imbalances (e.g., acne, excessive hair growth, weight gain)",
+        "Erectile dysfunction or low sperm count (in men)",
+        "Reduced sexual desire",
+        "Recurrent miscarriages",
+        "Pelvic pain or underlying reproductive disorders (e.g., PCOS, endometriosis)"
+      ],
+      "precautions": [
+        "Maintain a healthy weight through a balanced diet and regular exercise",
+        "Avoid smoking, excessive alcohol consumption, and recreational drugs",
+        "Manage stress through relaxation techniques like meditation or yoga",
+        "Monitor ovulation cycles for better timing of conception",
+        "Avoid exposure to environmental toxins and radiation",
+        "Treat underlying medical conditions affecting fertility (e.g., thyroid disorders, diabetes)",
+        "Ensure adequate intake of essential vitamins and minerals (e.g., folic acid, zinc)",
+        "Consult a fertility specialist if struggling to conceive after a year"
+      ],
+      "description": "Infertility is the inability to conceive despite regular, unprotected sexual intercourse for at least one year. It can affect both men and women due to hormonal imbalances, reproductive disorders, lifestyle factors, or underlying medical conditions. Various treatments, including medications, assisted reproductive technologies, and lifestyle changes, can improve fertility outcomes.",
+      "medicines": [
+        "Clomiphene citrate (to stimulate ovulation in women)",
+        "Letrozole (for ovulation induction, especially in PCOS patients)",
+        "Gonadotropins (e.g., FSH, hCG injections for egg or sperm production)",
+        "Metformin (for insulin resistance-related infertility, such as PCOS)",
+        "Bromocriptine (for treating high prolactin levels affecting ovulation)",
+        "Antioxidant supplements (e.g., Coenzyme Q10, vitamin C, zinc for sperm health)",
+        "Hormonal therapy (e.g., testosterone replacement for male infertility)",
+        "Assisted reproductive techniques (e.g., IVF, IUI for severe cases)"
+      ]
+    },
+    {
+      "name": "Eye Cancer",
+      "symptoms": [
+        "Blurred or distorted vision",
+        "Partial or complete loss of vision",
+        "A dark spot or growth on the iris or inside the eye",
+        "Flashing lights or floaters in vision",
+        "Bulging of the eye",
+        "Pain in or around the eye (in advanced stages)",
+        "Change in the size or shape of the pupil",
+        "Redness or swelling in the eye"
+      ],
+      "precautions": [
+        "Regular eye checkups for early detection",
+        "Wear UV-protective sunglasses to protect from harmful radiation",
+        "Avoid prolonged exposure to bright lights and harmful chemicals",
+        "Maintain a healthy lifestyle with a balanced diet rich in antioxidants",
+        "Quit smoking and limit alcohol intake",
+        "Monitor any unusual changes in vision and consult an ophthalmologist",
+        "Manage underlying conditions like diabetes that can affect eye health",
+        "Genetic counseling if there is a family history of eye cancer"
+      ],
+      "description": "Eye cancer is a rare type of cancer that affects the eye tissues, including the retina, iris, or optic nerve. It can be primary (originating in the eye) or secondary (spreading from other body parts). The most common type is ocular melanoma. Early detection is crucial to prevent vision loss and spread to other organs.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Carboplatin, Vincristine for advanced eye cancer)",
+        "Targeted therapy (e.g., MEK inhibitors for ocular melanoma)",
+        "Immunotherapy (e.g., Checkpoint inhibitors for metastatic cases)",
+        "Pain relievers (e.g., Acetaminophen, Ibuprofen for symptom management)",
+        "Radiation therapy (e.g., Brachytherapy for localized tumors)",
+        "Surgical intervention (e.g., enucleation in severe cases)"
+      ]
+    },
+    {
+      "name": "Endometriosis",
+      "symptoms": [
+        "Pelvic pain, especially during menstruation",
+        "Heavy or irregular menstrual bleeding",
+        "Pain during or after sexual intercourse",
+        "Painful bowel movements or urination, especially during periods",
+        "Chronic lower back pain",
+        "Fatigue and general discomfort",
+        "Infertility or difficulty conceiving",
+        "Bloating, nausea, and digestive issues (e.g., diarrhea or constipation)"
+      ],
+      "precautions": [
+        "Maintain a healthy diet rich in anti-inflammatory foods (e.g., leafy greens, omega-3 fatty acids)",
+        "Exercise regularly to improve circulation and reduce pain",
+        "Manage stress with relaxation techniques like yoga and meditation",
+        "Avoid excessive caffeine and alcohol intake",
+        "Monitor menstrual cycles and track symptoms",
+        "Use heat therapy (e.g., heating pads) to relieve pelvic pain",
+        "Consult a gynecologist for early diagnosis and treatment",
+        "Consider hormonal therapy if prescribed by a doctor"
+      ],
+      "description": "Endometriosis is a painful condition where tissue similar to the lining of the uterus grows outside the uterus. This tissue can cause inflammation, scarring, and pain, often worsening during menstruation. It is a leading cause of infertility in women and requires medical intervention for effective management.",
+      "medicines": [
+        "Nonsteroidal anti-inflammatory drugs (NSAIDs) (e.g., Ibuprofen, Naproxen for pain relief)",
+        "Hormonal contraceptives (e.g., birth control pills, patches, or vaginal rings to regulate menstruation)",
+        "Gonadotropin-releasing hormone (GnRH) agonists (e.g., Leuprolide to reduce estrogen levels)",
+        "Progestin therapy (e.g., Norethindrone, Medroxyprogesterone to suppress endometrial growth)",
+        "Aromatase inhibitors (e.g., Letrozole, Anastrozole to lower estrogen production)",
+        "Surgical treatments (e.g., laparoscopic surgery to remove endometrial tissue)"
+      ]
+    },
+    {
+      "name": "Epilepsy",
+      "symptoms": [
+        "Seizures (uncontrolled shaking, muscle stiffness, or loss of awareness)",
+        "Temporary confusion",
+        "Staring spells",
+        "Uncontrollable jerking movements of the arms and legs",
+        "Loss of consciousness or awareness",
+        "Psychological symptoms such as fear, anxiety, or déjà vu",
+        "Sudden falls or blackouts",
+        "Unusual sensations (e.g., tingling, flashing lights, or strange smells)"
+      ],
+      "precautions": [
+        "Take prescribed medications regularly to control seizures",
+        "Avoid sleep deprivation, as lack of sleep can trigger seizures",
+        "Manage stress through relaxation techniques like yoga or meditation",
+        "Avoid alcohol and recreational drugs",
+        "Wear protective gear (e.g., helmets) if at risk of falls due to seizures",
+        "Monitor for seizure triggers (e.g., flashing lights, dehydration, or stress)",
+        "Maintain a balanced diet and stay hydrated",
+        "Inform family and friends about first aid for seizures"
+      ],
+      "description": "Epilepsy is a neurological disorder characterized by recurrent seizures caused by abnormal brain activity. It can develop due to genetic factors, brain injuries, infections, or unknown causes. While epilepsy cannot always be cured, medications and lifestyle adjustments help manage the condition effectively.",
+      "medicines": [
+        "Anti-epileptic drugs (AEDs) (e.g., Levetiracetam, Valproate, Carbamazepine, Phenytoin)",
+        "Benzodiazepines (e.g., Clonazepam, Diazepam for emergency seizure control)",
+        "Ketogenic diet (high-fat, low-carb diet for seizure management in drug-resistant epilepsy)",
+        "Vagus nerve stimulation (VNS) therapy for drug-resistant epilepsy",
+        "Surgical interventions (e.g., lobectomy, corpus callosotomy for severe cases)"
+      ]
+    },
+    {
+      "name": "Depression",
+      "symptoms": [
+        "Persistent sadness or low mood",
+        "Loss of interest or pleasure in activities once enjoyed",
+        "Fatigue or low energy levels",
+        "Changes in appetite (weight loss or gain)",
+        "Sleep disturbances (insomnia or excessive sleeping)",
+        "Difficulty concentrating or making decisions",
+        "Feelings of worthlessness, guilt, or hopelessness",
+        "Irritability or restlessness",
+        "Physical symptoms such as headaches, digestive problems, or body pain",
+        "Thoughts of self-harm or suicide"
+      ],
+      "precautions": [
+        "Engage in regular physical activity and exercise",
+        "Maintain a healthy, balanced diet",
+        "Practice relaxation techniques such as meditation and deep breathing",
+        "Ensure a consistent sleep schedule",
+        "Stay socially connected with family and friends",
+        "Avoid alcohol and recreational drugs",
+        "Seek professional counseling or therapy if symptoms persist",
+        "Follow prescribed medication regimen if applicable"
+      ],
+      "description": "Depression is a mental health disorder characterized by persistent feelings of sadness, hopelessness, and a lack of interest in daily activities. It can affect a person’s emotional and physical well-being, leading to difficulties in daily life. Treatment options include therapy, medication, and lifestyle changes.",
+      "medicines": [
+        "Selective serotonin reuptake inhibitors (SSRIs) (e.g., Fluoxetine, Sertraline, Escitalopram)",
+        "Serotonin-norepinephrine reuptake inhibitors (SNRIs) (e.g., Venlafaxine, Duloxetine)",
+        "Tricyclic antidepressants (TCAs) (e.g., Amitriptyline, Nortriptyline)",
+        "Monoamine oxidase inhibitors (MAOIs) (e.g., Phenelzine, Tranylcypromine for severe cases)",
+        "Atypical antidepressants (e.g., Bupropion, Mirtazapine)",
+        "Psychotherapy (e.g., Cognitive Behavioral Therapy, Dialectical Behavior Therapy)",
+        "Electroconvulsive therapy (ECT) for treatment-resistant cases"
+      ]
+    },
+    {
+      "name": "Dental Abscess",
+      "symptoms": [
+        "Severe, persistent, throbbing toothache",
+        "Swelling in the face or cheek",
+        "Sensitivity to hot and cold foods or drinks",
+        "Pain when chewing or biting",
+        "Red, swollen gums",
+        "Bad breath or a foul taste in the mouth",
+        "Fever and general discomfort",
+        "Pus drainage from the affected area"
+      ],
+      "precautions": [
+        "Maintain good oral hygiene by brushing twice a day and flossing daily",
+        "Visit the dentist regularly for checkups and cleanings",
+        "Avoid consuming excessive sugary foods and drinks",
+        "Rinse your mouth with warm salt water to reduce infection risk",
+        "Use a soft-bristled toothbrush to prevent gum damage",
+        "Avoid smoking and excessive alcohol consumption",
+        "Seek immediate dental care if you notice any signs of infection",
+        "Do not ignore tooth pain or swelling, as early treatment prevents complications"
+      ],
+      "description": "A dental abscess is a bacterial infection that leads to a collection of pus inside the teeth, gums, or bone surrounding the teeth. It often results from untreated cavities, gum disease, or dental trauma. If left untreated, the infection can spread to other parts of the body, leading to serious complications.",
+      "medicines": [
+        "Antibiotics (e.g., Amoxicillin, Clindamycin, Metronidazole for bacterial infection control)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for pain management)",
+        "Antiseptic mouthwashes (e.g., Chlorhexidine to reduce bacterial growth)",
+        "Dental procedures (e.g., root canal therapy, tooth extraction, or incision and drainage for severe cases)"
+      ]
+    },
+    {
+      "name": "Coma",
+      "symptoms": [
+        "Unconsciousness lasting for an extended period",
+        "No response to external stimuli (pain, sound, or light)",
+        "Irregular or absent breathing patterns",
+        "Closed eyes with no voluntary movement",
+        "Lack of awareness of surroundings",
+        "Abnormal posturing (stiff or floppy limbs)",
+        "Irregular pupil response to light",
+        "Loss of reflexes in severe cases"
+      ],
+      "precautions": [
+        "Seek immediate medical attention if a person shows signs of coma",
+        "Monitor vital signs and keep the airway open",
+        "Prevent head injuries by wearing protective gear (e.g., helmets, seatbelts)",
+        "Manage chronic conditions such as diabetes, high blood pressure, and infections",
+        "Avoid excessive alcohol and drug use, which can lead to coma",
+        "Ensure proper treatment of infections that could affect the brain (e.g., meningitis, encephalitis)",
+        "Control blood sugar levels to prevent diabetic coma",
+        "Monitor for early signs of neurological disorders and seek prompt treatment"
+      ],
+      "description": "Coma is a prolonged state of unconsciousness caused by severe brain injury, stroke, drug overdose, infections, or metabolic imbalances. It is a medical emergency requiring immediate intervention. Recovery depends on the underlying cause and the extent of brain damage.",
+      "medicines": [
+        "Intravenous fluids to maintain hydration and electrolyte balance",
+        "Medications to control underlying conditions (e.g., Insulin for diabetic coma, Naloxone for opioid overdose)",
+        "Antibiotics for infections such as meningitis or encephalitis",
+        "Corticosteroids to reduce brain swelling in traumatic injuries",
+        "Sedatives or anticonvulsants for seizure management",
+        "Oxygen therapy or mechanical ventilation if breathing is compromised",
+        "Surgical intervention for brain swelling or hemorrhages"
+      ]
+    },
+    {
+      "name": "Cervical Cancer",
+      "symptoms": [
+        "Abnormal vaginal bleeding (e.g., between periods, after intercourse, or after menopause)",
+        "Unusual vaginal discharge with a foul odor",
+        "Pelvic pain or discomfort",
+        "Pain during sexual intercourse",
+        "Increased frequency of urination",
+        "Blood in urine or stool in advanced stages",
+        "Unexplained weight loss and fatigue",
+        "Swelling in the legs due to advanced-stage cancer"
+      ],
+      "precautions": [
+        "Get regular Pap smear tests and HPV screenings",
+        "Receive the HPV vaccine to prevent infection",
+        "Practice safe sex to reduce the risk of HPV transmission",
+        "Avoid smoking, as it increases the risk of cervical cancer",
+        "Maintain a healthy diet rich in fruits and vegetables",
+        "Stay physically active to boost overall immunity",
+        "Seek early medical consultation for unusual symptoms",
+        "Follow up with a gynecologist for any cervical health concerns"
+      ],
+      "description": "Cervical cancer is a type of cancer that occurs in the cervix, primarily caused by persistent infection with high-risk human papillomavirus (HPV) strains. Early detection through routine screenings significantly improves treatment outcomes. If left untreated, the cancer can spread to other parts of the body.",
+      "medicines": [
+        "Chemotherapy drugs (e.g., Cisplatin, Paclitaxel, Carboplatin for advanced cancer)",
+        "Targeted therapy (e.g., Bevacizumab for metastatic cervical cancer)",
+        "Radiation therapy to destroy cancer cells",
+        "Surgical procedures (e.g., hysterectomy, trachelectomy for early-stage cancer)",
+        "Immunotherapy (e.g., Pembrolizumab for advanced cervical cancer)"
+      ]
+    },
+    {
+      "name": "Bronchitis",
+      "symptoms": [
+        "Persistent cough with mucus (phlegm)",
+        "Chest discomfort or tightness",
+        "Shortness of breath",
+        "Wheezing",
+        "Fatigue and general weakness",
+        "Mild fever and chills",
+        "Sore throat",
+        "Body aches and headaches"
+      ],
+      "precautions": [
+        "Avoid smoking and exposure to secondhand smoke",
+        "Wash hands frequently to prevent infections",
+        "Use a humidifier to keep airways moist",
+        "Drink plenty of fluids to stay hydrated",
+        "Rest and avoid strenuous activities",
+        "Wear a mask in polluted or dusty environments",
+        "Get vaccinated against flu and pneumonia",
+        "Seek medical attention if symptoms worsen or last longer than three weeks"
+      ],
+      "description": "Bronchitis is an inflammation of the bronchial tubes, which carry air to and from the lungs. It can be acute (short-term) or chronic (long-term). Acute bronchitis is often caused by viral infections, while chronic bronchitis is commonly linked to smoking or long-term exposure to irritants.",
+      "medicines": [
+        "Cough suppressants (e.g., Dextromethorphan for dry cough)",
+        "Expectorants (e.g., Guaifenesin to loosen mucus)",
+        "Bronchodilators (e.g., Albuterol for wheezing and shortness of breath)",
+        "Anti-inflammatory drugs (e.g., Ibuprofen, Naproxen for pain and inflammation)",
+        "Antibiotics (only if bacterial infection is present, e.g., Amoxicillin, Azithromycin)",
+        "Steroids (e.g., Prednisone for severe cases of chronic bronchitis)"
+      ]
+    },
+    {
+      "name": "Fever",
+      "symptoms": [
+        "Elevated body temperature (above 100.4°F or 38°C)",
+        "Chills and shivering",
+        "Sweating",
+        "Headache",
+        "Muscle aches and weakness",
+        "Loss of appetite",
+        "Dehydration",
+        "Fatigue and general discomfort"
+      ],
+      "precautions": [
+        "Drink plenty of fluids to stay hydrated",
+        "Rest and avoid strenuous activities",
+        "Wear light clothing and keep the room at a comfortable temperature",
+        "Use a cool compress to reduce body temperature",
+        "Take a lukewarm bath if the fever is high",
+        "Avoid caffeine and alcohol, as they can lead to dehydration",
+        "Monitor body temperature regularly",
+        "Seek medical attention if fever is above 103°F (39.4°C) or lasts more than 3 days"
+      ],
+      "description": "Fever is a temporary increase in body temperature, often due to an infection, inflammation, or other underlying medical conditions. It is the body's natural response to fighting infections. While mild fevers usually resolve on their own, high or persistent fevers may require medical attention.",
+      "medicines": [
+        "Antipyretics (e.g., Paracetamol, Acetaminophen to reduce fever)",
+        "Nonsteroidal anti-inflammatory drugs (NSAIDs) (e.g., Ibuprofen, Naproxen for fever and body aches)",
+        "Antibiotics (only if fever is caused by a bacterial infection, e.g., Amoxicillin, Azithromycin)",
+        "Antiviral medications (if fever is due to viral infections like flu, e.g., Oseltamivir for influenza)",
+        "Hydration solutions (e.g., Oral Rehydration Salts for dehydration)"
+      ]
+    },
+    {
+      "name": "Cold",
+      "symptoms": [
+        "Runny or stuffy nose",
+        "Sneezing",
+        "Sore throat",
+        "Cough",
+        "Mild fever",
+        "Headache",
+        "Fatigue",
+        "Watery eyes",
+        "Body aches"
+      ],
+      "precautions": [
+        "Wash hands frequently to prevent the spread of infection",
+        "Avoid close contact with infected individuals",
+        "Cover mouth and nose when sneezing or coughing",
+        "Drink plenty of fluids to stay hydrated",
+        "Get enough rest to allow the body to recover",
+        "Use a humidifier or inhale steam to relieve nasal congestion",
+        "Eat a balanced diet rich in vitamins to strengthen the immune system",
+        "Avoid smoking and exposure to air pollutants"
+      ],
+      "description": "The common cold is a viral infection affecting the upper respiratory tract, primarily caused by rhinoviruses. It is highly contagious and spreads through respiratory droplets. While there is no cure, symptoms can be managed with proper care and medications.",
+      "medicines": [
+        "Decongestants (e.g., Pseudoephedrine, Phenylephrine for nasal congestion)",
+        "Antihistamines (e.g., Cetirizine, Loratadine for runny nose and sneezing)",
+        "Pain relievers (e.g., Paracetamol, Ibuprofen for fever and headaches)",
+        "Cough suppressants (e.g., Dextromethorphan for dry cough)",
+        "Expectorants (e.g., Guaifenesin to loosen mucus)",
+        "Vitamin C and Zinc supplements to boost immunity"
+      ]
+    },
+    {
+      "name": "Vomiting",
+      "symptoms": [
+        "Nausea",
+        "Forceful expulsion of stomach contents through the mouth",
+        "Abdominal discomfort or pain",
+        "Dizziness or lightheadedness",
+        "Dehydration (dry mouth, excessive thirst, reduced urination)",
+        "Sweating",
+        "Loss of appetite",
+        "Fatigue and weakness"
+      ],
+      "precautions": [
+        "Drink small sips of clear fluids (water, electrolyte solutions) to prevent dehydration",
+        "Avoid solid foods until vomiting stops",
+        "Rest and avoid sudden movements",
+        "Eat bland foods like toast, rice, or bananas once able to tolerate food",
+        "Avoid fatty, spicy, and greasy foods",
+        "Stay in a cool and ventilated place to prevent nausea",
+        "Wash hands properly to prevent infections that may cause vomiting",
+        "Seek medical attention if vomiting persists for more than 24 hours or is accompanied by severe symptoms"
+      ],
+      "description": "Vomiting is the forceful expulsion of stomach contents through the mouth, often caused by infections, food poisoning, motion sickness, pregnancy, or gastrointestinal disorders. While mild cases resolve on their own, persistent vomiting may require medical attention.",
+      "medicines": [
+        "Antiemetics (e.g., Ondansetron, Metoclopramide to control nausea and vomiting)",
+        "Oral Rehydration Solutions (ORS) to prevent dehydration",
+        "Proton pump inhibitors (e.g., Pantoprazole, Omeprazole if caused by acid reflux)",
+        "Antihistamines (e.g., Dimenhydrinate, Meclizine for motion sickness-related vomiting)",
+        "Ginger-based supplements or teas to naturally relieve nausea"
+      ]
+    },
+    {
+      "name": "Body Pains",
+      "symptoms": [
+        "Generalized muscle aches",
+        "Joint stiffness and discomfort",
+        "Fatigue and weakness",
+        "Headache",
+        "Mild fever (in case of infections)",
+        "Swelling or tenderness in muscles or joints",
+        "Difficulty in movement",
+        "Restlessness and sleep disturbances"
+      ],
+      "precautions": [
+        "Stay hydrated and drink plenty of water",
+        "Get adequate rest and sleep",
+        "Engage in light stretching or yoga to relieve muscle tension",
+        "Apply hot or cold compresses to sore areas",
+        "Maintain a balanced diet rich in vitamins and minerals",
+        "Practice good posture to reduce strain on muscles",
+        "Avoid overexertion and heavy physical activities",
+        "Consult a doctor if pain persists for more than a few days"
+      ],
+      "description": "Body pains refer to generalized aches and discomfort in muscles and joints. They can be caused by various factors, including viral infections (such as flu), dehydration, physical exertion, poor posture, or underlying medical conditions like arthritis and fibromyalgia.",
+      "medicines": [
+        "Pain relievers (e.g., Paracetamol, Acetaminophen for mild pain and fever)",
+        "Nonsteroidal anti-inflammatory drugs (NSAIDs) (e.g., Ibuprofen, Naproxen for inflammation and muscle pain)",
+        "Muscle relaxants (e.g., Cyclobenzaprine for severe muscle tension)",
+        "Vitamin supplements (e.g., Vitamin D, Magnesium for muscle health)",
+        "Topical pain relievers (e.g., Menthol-based gels, Diclofenac gel for localized pain relief)"
+      ]
+    },
+    {
+      "name": "Ringworm",
+      "symptoms": [
+        "Red, scaly, and circular rash",
+        "Itching and irritation on the affected area",
+        "Blisters or pustules around the rash",
+        "Hair loss in the affected area (if on the scalp)",
+        "Cracked or peeling skin",
+        "Spreading of the rash over time"
+      ],
+      "precautions": [
+        "Keep the affected area clean and dry",
+        "Avoid sharing personal items like towels, combs, or clothing",
+        "Wear loose and breathable clothing to prevent moisture buildup",
+        "Wash hands frequently to prevent the spread of infection",
+        "Use antifungal powders or sprays on shoes and socks",
+        "Avoid close contact with infected individuals or pets",
+        "Disinfect surfaces and bedding regularly",
+        "Complete the full course of antifungal treatment to prevent recurrence"
+      ],
+      "description": "Ringworm, also known as tinea, is a common fungal infection that affects the skin, scalp, nails, and feet. It appears as a red, circular, and itchy rash with clearer skin in the center, resembling a ring. Despite its name, ringworm is not caused by a worm but by a fungal infection.",
+      "medicines": [
+        "Topical antifungal creams (e.g., Clotrimazole, Miconazole, Terbinafine)",
+        "Oral antifungal medications (e.g., Fluconazole, Itraconazole for severe cases)",
+        "Antifungal shampoos (e.g., Ketoconazole for scalp infections)",
+        "Hydrocortisone cream (for reducing inflammation and itching)",
+        "Home remedies (e.g., Tea tree oil, Coconut oil for mild cases)"
+      ]
+    },
+    {
+      "name": "Stomach Pain",
+      "symptoms": [
+        "Cramping or aching sensation in the abdomen",
+        "Bloating and gas",
+        "Nausea or vomiting",
+        "Diarrhea or constipation",
+        "Heartburn or acid reflux",
+        "Loss of appetite",
+        "Fever (if caused by an infection)",
+        "Tenderness or discomfort in the stomach area"
+      ],
+      "precautions": [
+        "Avoid spicy, fatty, and greasy foods",
+        "Eat small, frequent meals instead of large meals",
+        "Stay hydrated by drinking plenty of water",
+        "Avoid alcohol and caffeine",
+        "Practice good hygiene to prevent foodborne infections",
+        "Rest and avoid strenuous activities",
+        "Use a heating pad on the abdomen for relief",
+        "Seek medical attention if pain is severe, persistent, or accompanied by vomiting or blood in stool"
+      ],
+      "description": "Stomach pain, also known as abdominal pain, can be caused by various factors including indigestion, gas, infections, ulcers, food poisoning, or underlying medical conditions like gastritis and irritable bowel syndrome (IBS). While mild stomach pain can be managed with home remedies, persistent or severe pain may require medical attention.",
+      "medicines": [
+        "Antacids (e.g., Ranitidine, Omeprazole for acid reflux or heartburn)",
+        "Antispasmodics (e.g., Dicyclomine for abdominal cramps)",
+        "Anti-gas medications (e.g., Simethicone for bloating and gas)",
+        "Pain relievers (e.g., Acetaminophen for mild pain, avoiding NSAIDs like Ibuprofen if ulcers are suspected)",
+        "Probiotics (e.g., Lactobacillus supplements for digestive health)",
+        "Oral rehydration solutions (for dehydration due to vomiting or diarrhea)"
+      ]
+    },
+    {
+      "name": "Cough",
+      "symptoms": [
+        "Frequent or persistent coughing",
+        "Dry or wet (productive) cough",
+        "Sore throat or irritation",
+        "Chest congestion or tightness",
+        "Shortness of breath (in some cases)",
+        "Wheezing (if associated with asthma or bronchitis)",
+        "Hoarseness or voice changes",
+        "Fatigue due to prolonged coughing"
+      ],
+      "precautions": [
+        "Drink plenty of warm fluids to soothe the throat",
+        "Use a humidifier or inhale steam to ease congestion",
+        "Avoid cold and dry air, which can worsen symptoms",
+        "Rest and get enough sleep to aid recovery",
+        "Avoid smoking and exposure to pollutants",
+        "Take honey or herbal teas for natural relief",
+        "Use lozenges or throat sprays for soothing irritation",
+        "Seek medical attention if the cough persists for more than three weeks or is accompanied by blood, fever, or severe difficulty breathing"
+      ],
+      "description": "Coughing is a reflex action that clears the throat and airways of mucus, irritants, or infections. It can be caused by viral infections (such as colds and flu), allergies, asthma, acid reflux, or lung diseases. A cough can be dry (non-productive) or wet (producing mucus). Treatment depends on the underlying cause.",
+      "medicines": [
+        "Cough suppressants (e.g., Dextromethorphan for dry cough)",
+        "Expectorants (e.g., Guaifenesin to loosen mucus in wet cough)",
+        "Antihistamines (e.g., Loratadine, Diphenhydramine for allergy-related cough)",
+        "Bronchodilators (e.g., Salbutamol for asthma-related cough)",
+        "Antibiotics (only if bacterial infection is confirmed by a doctor)",
+        "Herbal remedies (e.g., Honey, Ginger tea, Turmeric milk for natural relief)"
+      ]
+    },
+    {
+      "name": "Motions",
+      "symptoms": [
+        "Frequent loose or watery stools",
+        "Abdominal cramps or pain",
+        "Bloating and gas",
+        "Nausea or vomiting",
+        "Fever (in case of infection)",
+        "Dehydration (dry mouth, excessive thirst, reduced urination)",
+        "Weakness and fatigue"
+      ],
+      "precautions": [
+        "Drink plenty of fluids (water, oral rehydration solutions) to prevent dehydration",
+        "Avoid dairy, spicy, oily, and high-fiber foods",
+        "Consume bland foods like rice, bananas, toast, and boiled potatoes",
+        "Maintain proper hygiene and wash hands frequently",
+        "Avoid contaminated or undercooked food and unclean water",
+        "Rest and avoid strenuous activities",
+        "Seek medical attention if diarrhea persists for more than 3 days or is accompanied by blood, high fever, or severe dehydration"
+      ],
+      "description": "Diarrhea, commonly referred to as motions, is a condition characterized by frequent, loose, or watery stools. It is often caused by infections, food poisoning, digestive disorders, or contaminated food and water. While mild cases resolve on their own, persistent diarrhea may require medical attention to prevent dehydration.",
+      "medicines": [
+        "Oral rehydration solutions (ORS) to replenish lost fluids",
+        "Antidiarrheal medications (e.g., Loperamide for temporary relief)",
+        "Probiotics (e.g., Lactobacillus to restore gut flora)",
+        "Antibiotics (only if diarrhea is caused by a bacterial infection, prescribed by a doctor)",
+        "Zinc supplements (to reduce severity and duration of diarrhea)"
+      ]
+    },
+    {
+      "name": "Dry Skin",
+      "symptoms": [
+        "Rough, scaly, or flaky skin",
+        "Tightness and discomfort, especially after bathing",
+        "Itching or irritation",
+        "Cracked or peeling skin",
+        "Redness or inflammation",
+        "Fine lines or ashy appearance (in darker skin tones)"
+      ],
+      "precautions": [
+        "Apply a moisturizer regularly, especially after bathing",
+        "Use mild, fragrance-free soaps and cleansers",
+        "Avoid long, hot showers or baths",
+        "Drink plenty of water to stay hydrated",
+        "Use a humidifier to add moisture to indoor air",
+        "Wear gloves when washing dishes or handling harsh chemicals",
+        "Avoid scratching or rubbing the skin excessively",
+        "Use sunscreen to protect against sun damage"
+      ],
+      "description": "Dry skin, also known as xerosis, is a common condition where the skin lacks moisture, leading to roughness, flaking, and irritation. It can be caused by environmental factors, aging, harsh soaps, or underlying skin conditions like eczema or psoriasis. Proper hydration and moisturizing help manage symptoms.",
+      "medicines": [
+        "Moisturizing creams and lotions (e.g., Cetaphil, Eucerin, CeraVe)",
+        "Hydrating ointments (e.g., Petroleum jelly, Aquaphor)",
+        "Topical corticosteroids (for severe dryness and inflammation, as prescribed by a doctor)",
+        "Antihistamines (for itching relief, e.g., Loratadine, Diphenhydramine)",
+        "Omega-3 and vitamin E supplements (to improve skin hydration)"
+      ]
+    },
+    {
+      "name": "Skin Rash",
+      "symptoms": [
+        "Red, inflamed, or irritated skin",
+        "Itching or burning sensation",
+        "Small bumps, blisters, or patches",
+        "Dry, scaly, or peeling skin",
+        "Swelling or tenderness",
+        "Crusting or oozing (in severe cases)"
+      ],
+      "precautions": [
+        "Avoid scratching or rubbing the affected area",
+        "Keep the skin clean and dry",
+        "Use mild, fragrance-free soaps and detergents",
+        "Apply a soothing moisturizer or anti-itch cream",
+        "Wear loose, breathable clothing to reduce irritation",
+        "Avoid known allergens or irritants (e.g., harsh chemicals, pollen, certain fabrics)",
+        "Use cool compresses to reduce redness and itching",
+        "Seek medical attention if the rash is severe, spreads rapidly, or is accompanied by fever"
+      ],
+      "description": "A rash is an area of irritated or inflamed skin that may appear red, itchy, swollen, or scaly. It can be caused by allergies, infections, heat, autoimmune disorders, or irritants like soaps and fabrics. While mild rashes may resolve on their own, persistent or worsening rashes may require medical treatment.",
+      "medicines": [
+        "Topical corticosteroids (e.g., Hydrocortisone for inflammation and itching)",
+        "Antihistamines (e.g., Loratadine, Cetirizine for allergy-related rashes)",
+        "Calamine lotion (to soothe itching and irritation)",
+        "Antifungal creams (e.g., Clotrimazole for fungal infections like ringworm)",
+        "Antibiotic ointments (e.g., Neosporin for bacterial infections, if needed)",
+        "Moisturizers and emollients (to hydrate and protect the skin)"
+      ]
+    },
+    {
+      "name": "Neck Pain",
+      "symptoms": [
+        "Stiffness and difficulty moving the neck",
+        "Sharp or dull aching pain in the neck area",
+        "Pain that worsens with movement or prolonged sitting",
+        "Muscle tightness or spasms",
+        "Headaches originating from the neck",
+        "Numbness or tingling in arms (if nerve compression is involved)"
+      ],
+      "precautions": [
+        "Maintain good posture while sitting and standing",
+        "Avoid prolonged screen time or incorrect sleeping positions",
+        "Use a supportive pillow and mattress",
+        "Apply heat or ice packs to reduce pain and inflammation",
+        "Perform gentle neck stretches and exercises",
+        "Avoid carrying heavy bags on one shoulder",
+        "Take breaks when working on a computer or using a phone",
+        "Seek medical attention if the pain persists, worsens, or is accompanied by weakness or numbness"
+      ],
+      "description": "Neck pain is a common condition caused by poor posture, muscle strain, injury, or underlying conditions such as arthritis or nerve compression. It can range from mild discomfort to severe pain affecting daily activities. Proper rest, exercises, and posture correction can help relieve symptoms.",
+      "medicines": [
+        "Pain relievers (e.g., Ibuprofen, Paracetamol for mild pain)",
+        "Muscle relaxants (e.g., Baclofen, Cyclobenzaprine for muscle spasms)",
+        "Topical pain relief creams (e.g., Diclofenac gel, Capsaicin cream)",
+        "Physical therapy and stretching exercises",
+        "Steroid injections (for severe cases, as prescribed by a doctor)"
+      ]
+    },
+    {
+      "name": "Headache",
+      "symptoms": [
+        "Dull, aching, or sharp pain in the head",
+        "Pressure or tightness around the forehead, temples, or back of the head",
+        "Sensitivity to light and sound",
+        "Nausea or dizziness (in severe cases)",
+        "Pain that worsens with movement or stress",
+        "Blurred vision or aura (in migraines)"
+      ],
+      "precautions": [
+        "Stay hydrated and drink plenty of water",
+        "Get enough sleep and maintain a regular sleep schedule",
+        "Reduce stress through relaxation techniques like meditation and deep breathing",
+        "Avoid excessive screen time and take regular breaks",
+        "Limit intake of caffeine, alcohol, and processed foods",
+        "Apply a cold or warm compress to the head or neck",
+        "Maintain good posture to reduce muscle strain",
+        "Seek medical attention if headaches are severe, frequent, or accompanied by neurological symptoms"
+      ],
+      "description": "A headache is a common condition that causes pain or discomfort in the head, scalp, or neck. It can be triggered by stress, dehydration, eye strain, lack of sleep, or underlying medical conditions such as migraines, tension headaches, or sinus infections. Treatment varies depending on the type and cause of the headache.",
+      "medicines": [
+        "Pain relievers (e.g., Paracetamol, Ibuprofen, Aspirin for mild to moderate headaches)",
+        "Caffeine-based medications (e.g., Excedrin for tension or migraine headaches)",
+        "Triptans (e.g., Sumatriptan for migraines, prescribed by a doctor)",
+        "Muscle relaxants (for tension headaches caused by muscle strain)",
+        "Antidepressants or beta-blockers (for chronic migraines, as prescribed by a doctor)"
+      ]
+    },
+    {
+      "name": "aids",
+      "symptoms": [
+        "Frequent infections (bacterial, viral, fungal)",
+        "Rapid weight loss",
+        "Extreme fatigue",
+        "Prolonged fever or night sweats",
+        "Swollen lymph nodes",
+        "Chronic diarrhea",
+        "Skin rashes or sores",
+        "Mouth ulcers or thrush",
+        "Neurological issues (memory loss, confusion, depression)"
+      ],
+      "precautions": [
+        "Practice safe sex (use condoms and avoid multiple partners)",
+        "Avoid sharing needles, razors, or personal items",
+        "Get regularly tested for HIV, especially if at high risk",
+        "Take pre-exposure prophylaxis (PrEP) if at high risk of HIV infection",
+        "Follow proper prenatal care to prevent mother-to-child transmission",
+        "Eat a healthy diet and maintain a strong immune system",
+        "Get vaccinated for preventable infections (e.g., Hepatitis B, Influenza)",
+        "Seek immediate medical attention if exposed to HIV (PEP within 72 hours)"
+      ],
+      "description": "AIDS is the final stage of HIV infection, where the immune system is severely weakened, making the body vulnerable to life-threatening infections and diseases. It is primarily transmitted through unprotected sexual contact, blood transfusions, shared needles, and from mother to child during childbirth or breastfeeding. While there is no cure, antiretroviral therapy (ART) can help manage the disease and prolong life.",
+      "medicines": [
+        "Antiretroviral therapy (ART) (e.g., Tenofovir, Emtricitabine, Dolutegravir)",
+        "Protease inhibitors (e.g., Lopinavir, Ritonavir)",
+        "Entry inhibitors (e.g., Maraviroc to prevent virus entry into cells)",
+        "Integrase inhibitors (e.g., Raltegravir to prevent virus replication)",
+        "Medications for opportunistic infections (e.g., antifungals, antibiotics, antivirals)"
+      ]
+    },
+    {
+      "name": "Hair Fall (Hair Loss/Alopecia)",
+      "symptoms": [
+        "Gradual thinning of hair on the scalp",
+        "Sudden loosening of hair",
+        "Receding hairline or bald spots",
+        "Excessive hair shedding while combing or washing",
+        "Patchy bald spots on the scalp, eyebrows, or beard",
+        "Itching or irritation on the scalp (in some cases)"
+      ],
+      "precautions": [
+        "Maintain a healthy diet rich in vitamins and minerals (especially iron, biotin, and protein)",
+        "Avoid excessive use of heat styling tools and harsh hair treatments",
+        "Use mild, sulfate-free shampoos and conditioners",
+        "Massage the scalp with essential oils (e.g., coconut, castor, or rosemary oil)",
+        "Reduce stress through relaxation techniques like yoga and meditation",
+        "Stay hydrated and avoid smoking or excessive alcohol consumption",
+        "Consult a doctor if hair loss is excessive, sudden, or accompanied by other symptoms"
+      ],
+      "description": "Hair fall, also known as hair loss or alopecia, is a common condition that can be caused by genetics, hormonal imbalances, nutritional deficiencies, stress, aging, or medical conditions like thyroid disorders or alopecia areata. Proper hair care, a balanced diet, and medical treatments can help manage hair loss.",
+      "medicines": [
+        "Minoxidil (topical solution to promote hair growth)",
+        "Finasteride (oral medication for male pattern baldness)",
+        "Biotin and multivitamin supplements (to support hair health)",
+        "Ketoconazole shampoo (for dandruff-related hair loss)",
+        "Platelet-rich plasma (PRP) therapy (for advanced hair loss, as prescribed by a doctor)"
+      ]
+    },
+    {
+      "name": "Eye Pain",
+      "symptoms": [
+        "Burning or stinging sensation in the eyes",
+        "Redness and irritation",
+        "Watery or dry eyes",
+        "Blurred vision",
+        "Sensitivity to light",
+        "Swelling around the eyes",
+        "Headache or pressure around the eyes",
+        "Foreign body sensation in the eye"
+      ],
+      "precautions": [
+        "Avoid excessive screen time and take regular breaks (20-20-20 rule)",
+        "Wear protective eyewear when exposed to dust, chemicals, or bright light",
+        "Keep eyes hydrated using artificial tears or lubricating eye drops",
+        "Avoid rubbing the eyes to prevent further irritation",
+        "Get enough sleep and rest your eyes",
+        "Maintain proper hygiene when using contact lenses",
+        "Use anti-glare glasses while working on screens",
+        "Seek medical attention if eye pain is severe, persistent, or accompanied by vision loss"
+      ],
+      "description": "Eye pain can result from various causes, including eye strain, infections, dryness, allergies, or underlying medical conditions like glaucoma or sinusitis. It can range from mild discomfort to severe pain, requiring medical attention depending on the cause.",
+      "medicines": [
+        "Lubricating eye drops (e.g., Artificial Tears for dryness and irritation)",
+        "Antihistamines (e.g., Olopatadine for allergy-related eye pain)",
+        "Antibiotic eye drops (e.g., Ciprofloxacin for bacterial infections)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for associated headaches or inflammation)",
+        "Steroid eye drops (for severe inflammation, as prescribed by a doctor)"
+      ]
+    },
+    {
+      "name": "Eye Rash",
+      "symptoms": [
+        "Redness and irritation around the eyes",
+        "Itchy or burning sensation",
+        "Swelling of the eyelids or under-eye area",
+        "Flaky or dry skin around the eyes",
+        "Watery eyes",
+        "Pain or discomfort in severe cases"
+      ],
+      "precautions": [
+        "Avoid rubbing or touching the eyes to prevent further irritation",
+        "Use hypoallergenic skincare and makeup products",
+        "Keep the eye area clean and avoid harsh soaps or chemicals",
+        "Apply a cold compress to reduce swelling and itching",
+        "Use lubricating eye drops for dryness and irritation",
+        "Avoid allergens such as pollen, dust, or pet dander",
+        "Wash hands frequently to prevent infections",
+        "Seek medical attention if symptoms persist or worsen"
+      ],
+      "description": "An eye rash can be caused by allergies, infections, irritants, or skin conditions like eczema or dermatitis. It often leads to redness, itching, swelling, and discomfort around the eyes. Proper skincare, allergy management, and medical treatment can help alleviate symptoms.",
+      "medicines": [
+        "Antihistamines (e.g., Loratadine, Cetirizine for allergy-related eye rashes)",
+        "Steroid creams (e.g., Hydrocortisone for eczema or dermatitis, as prescribed)",
+        "Antibiotic ointments (e.g., Erythromycin for bacterial infections)",
+        "Lubricating eye drops (e.g., Artificial Tears for dryness and irritation)",
+        "Anti-inflammatory medications (e.g., Ibuprofen for swelling and pain)"
+      ]
+    },
+    {
+      "name": "Knee Pain",
+      "symptoms": [
+        "Pain in or around the knee joint",
+        "Swelling and stiffness",
+        "Weakness or instability in the knee",
+        "Popping or cracking sounds when moving the knee",
+        "Redness and warmth around the knee",
+        "Difficulty in bending or straightening the knee",
+        "Pain that worsens with activity or prolonged sitting"
+      ],
+      "precautions": [
+        "Avoid excessive strain on the knee by maintaining a healthy weight",
+        "Perform regular low-impact exercises like swimming or cycling",
+        "Use proper footwear to support knee alignment",
+        "Apply ice packs to reduce swelling and inflammation",
+        "Rest the knee and avoid excessive movement if pain persists",
+        "Use knee braces or supports if needed",
+        "Do stretching and strengthening exercises for knee muscles",
+        "Seek medical attention if the pain is severe or persistent"
+      ],
+      "description": "Knee pain is a common issue that can result from injuries, arthritis, overuse, or underlying medical conditions. It may cause discomfort, swelling, and limited mobility. Proper care, physical therapy, and medications can help relieve symptoms and improve knee function.",
+      "medicines": [
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for mild to moderate pain)",
+        "Anti-inflammatory drugs (e.g., Naproxen for reducing swelling)",
+        "Glucosamine and chondroitin supplements (for joint health)",
+        "Corticosteroid injections (for severe inflammation, as prescribed by a doctor)",
+        "Topical pain relievers (e.g., Diclofenac gel for localized pain relief)"
+      ]
+    },
+    {
+      "name": "Acne Vulgaris",
+      "symptoms": [
+        "Pimples (papules, pustules, nodules, cysts) on the face, chest, back, or shoulders",
+        "Blackheads and whiteheads",
+        "Redness and inflammation around affected areas",
+        "Painful or tender lumps under the skin",
+        "Oily skin and excess sebum production",
+        "Scarring or dark spots after breakouts"
+      ],
+      "precautions": [
+        "Wash your face twice daily with a gentle cleanser",
+        "Avoid touching or popping pimples to prevent scarring and infections",
+        "Use non-comedogenic (oil-free) skincare and makeup products",
+        "Maintain a healthy diet and avoid excessive sugary or greasy foods",
+        "Keep hair clean and avoid it touching the face",
+        "Use sunscreen to protect against hyperpigmentation",
+        "Reduce stress through relaxation techniques and proper sleep",
+        "Consult a dermatologist for persistent or severe acne"
+      ],
+      "description": "Acne Vulgaris is a common skin condition caused by clogged hair follicles due to excess oil, bacteria, and dead skin cells. It often appears as pimples, blackheads, or cysts and can be influenced by hormonal changes, diet, and genetics. Proper skincare and medical treatments can help manage acne effectively.",
+      "medicines": [
+        "Topical retinoids (e.g., Tretinoin, Adapalene for unclogging pores)",
+        "Benzoyl peroxide (to kill acne-causing bacteria and reduce inflammation)",
+        "Salicylic acid (to exfoliate and prevent clogged pores)",
+        "Oral antibiotics (e.g., Doxycycline, Minocycline for severe acne)",
+        "Isotretinoin (for severe, cystic acne, prescribed by a dermatologist)",
+        "Hormonal therapy (e.g., Oral contraceptives for hormone-related acne)"
+      ]
+    },
+    {
+      "name": "Alzheimer’s Disease",
+      "symptoms": [
+        "Memory loss affecting daily activities",
+        "Difficulty in problem-solving and decision-making",
+        "Confusion with time, places, or people",
+        "Difficulty in speaking, writing, or understanding language",
+        "Mood swings, depression, or personality changes",
+        "Poor judgment and withdrawal from social activities",
+        "Difficulty in recognizing family members"
+      ],
+      "precautions": [
+        "Maintain a healthy and balanced diet",
+        "Engage in regular physical and mental exercises",
+        "Follow a structured daily routine",
+        "Keep social interactions active",
+        "Ensure proper sleep and stress management",
+        "Take prescribed medications as directed",
+        "Seek medical help for cognitive therapy and support"
+      ],
+      "description": "Alzheimer’s disease is a progressive neurological disorder that leads to memory loss and cognitive decline. It primarily affects older adults and worsens over time, making daily tasks increasingly difficult. There is no cure, but treatments can help manage symptoms.",
+      "medicines": [
+        "Donepezil (to improve memory and thinking skills)",
+        "Rivastigmine (for mild to moderate Alzheimer's symptoms)",
+        "Memantine (to slow the progression of cognitive decline)",
+        "Antidepressants or anti-anxiety medications (for mood-related symptoms)",
+        "Vitamin E supplements (for brain health, as recommended by a doctor)"
+      ]
+    },
+    {
+      "name": "Hyperpigmentation",
+      "symptoms": [
+        "Dark patches or spots on the skin",
+        "Uneven skin tone",
+        "Discoloration on the face, hands, or other sun-exposed areas",
+        "Freckles or age spots",
+        "Skin darkening after acne, cuts, or burns",
+        "Sensitive skin in affected areas"
+      ],
+      "precautions": [
+        "Use sunscreen (SPF 30 or higher) daily to prevent further pigmentation",
+        "Avoid direct sun exposure, especially between 10 AM and 4 PM",
+        "Wear protective clothing like hats and sunglasses",
+        "Use gentle skincare products to avoid irritation",
+        "Avoid picking at acne or skin lesions",
+        "Follow a healthy diet rich in antioxidants",
+        "Consult a dermatologist for persistent pigmentation issues"
+      ],
+      "description": "Hyperpigmentation is a common skin condition where certain areas of the skin become darker than the surrounding skin due to excess melanin production. It can be caused by sun exposure, inflammation, hormonal changes, or underlying medical conditions.",
+      "medicines": [
+        "Hydroquinone (skin-lightening cream to reduce dark spots)",
+        "Retinoids (e.g., Tretinoin, Adapalene for skin renewal)",
+        "Vitamin C serums (for brightening and reducing dark spots)",
+        "Azelaic acid (to treat post-inflammatory hyperpigmentation)",
+        "Kojic acid (natural skin-lightening agent)",
+        "Chemical peels (e.g., glycolic acid or salicylic acid, as prescribed)"
+      ]
+    },
+    {
+      "name": "Gas Trouble",
+      "symptoms": [
+        "Abdominal bloating and discomfort",
+        "Frequent passing of gas",
+        "Stomach pain or cramps",
+        "Feeling of fullness",
+        "Belching or burping",
+        "Gurgling sounds in the stomach"
+      ],
+      "precautions": [
+        "Avoid gas-producing foods like beans, cabbage, and carbonated drinks",
+        "Eat slowly and chew food properly",
+        "Stay hydrated and drink warm water after meals",
+        "Exercise regularly to improve digestion",
+        "Limit intake of dairy products if lactose intolerant",
+        "Avoid excessive consumption of fried and spicy foods",
+        "Reduce stress and practice relaxation techniques",
+        "Consult a doctor if symptoms persist"
+      ],
+      "description": "Gas trouble, also known as flatulence or bloating, occurs due to excessive gas buildup in the digestive system. It can be caused by diet, indigestion, or underlying health conditions. Managing food intake and maintaining a healthy digestive system can help reduce discomfort.",
+      "medicines": [
+        "Simethicone (for gas relief and bloating)",
+        "Activated charcoal (to absorb gas and toxins)",
+        "Antacids (e.g., Ranitidine, Famotidine for acid-related gas issues)",
+        "Digestive enzymes (e.g., Lactase for lactose intolerance)",
+        "Probiotics (to improve gut health)",
+        "Herbal remedies (e.g., Ginger, Peppermint tea for digestion aid)"
+      ]
+    },
+    {
+      "name": "Ear Pain",
+      "symptoms": [
+        "Sharp or dull pain in one or both ears",
+        "Fullness or pressure in the ear",
+        "Difficulty hearing or muffled sounds",
+        "Swelling or redness around the ear",
+        "Fluid drainage from the ear",
+        "Fever (in case of infection)",
+        "Dizziness or balance issues"
+      ],
+      "precautions": [
+        "Avoid inserting objects like cotton swabs into the ear",
+        "Keep ears dry and clean to prevent infections",
+        "Use warm compresses to relieve pain",
+        "Avoid exposure to loud noises",
+        "Stay away from allergens that can trigger ear infections",
+        "Chew gum or swallow frequently to relieve pressure during air travel",
+        "Consult a doctor if the pain persists for more than 48 hours"
+      ],
+      "description": "Ear pain, also known as otalgia, can result from infections, fluid buildup, earwax blockage, or changes in air pressure. It can also be linked to throat infections or dental issues. Proper care and timely treatment can prevent complications.",
+      "medicines": [
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for pain and inflammation)",
+        "Antibiotics (e.g., Amoxicillin for bacterial infections, if prescribed by a doctor)",
+        "Ear drops (e.g., Ciprofloxacin ear drops for infection relief)",
+        "Antihistamines (e.g., Loratadine for allergies affecting the ear)",
+        "Decongestants (e.g., Pseudoephedrine for sinus-related ear pain)"
+      ]
+    },
+    {
+      "name": "Brittle Nails",
+      "symptoms": [
+        "Weak and thin nails that break or split easily",
+        "Peeling or flaking of the nail surface",
+        "Ridges or cracks on the nails",
+        "Slow nail growth",
+        "Dryness or discoloration of nails",
+        "Nails separating from the nail bed in severe cases"
+      ],
+      "precautions": [
+        "Keep nails moisturized with hand cream or cuticle oil",
+        "Avoid excessive exposure to water and harsh chemicals",
+        "Wear gloves while washing dishes or cleaning",
+        "Use mild nail polish removers without acetone",
+        "Maintain a healthy diet rich in vitamins and minerals",
+        "Avoid biting nails or using them as tools",
+        "Trim nails regularly and file them gently",
+        "Stay hydrated and drink enough water daily"
+      ],
+      "description": "Brittle nails, also known as onychoschizia, occur when nails become dry, weak, and prone to splitting or breaking. This condition can be caused by excessive moisture exposure, nutritional deficiencies, aging, or underlying health issues such as thyroid disorders.",
+      "medicines": [
+        "Biotin supplements (to strengthen nails)",
+        "Vitamin E oil (for nail hydration and repair)",
+        "Calcium and iron supplements (if deficiency is a cause)",
+        "Keratin treatments (to improve nail strength)",
+        "Moisturizing creams containing urea or lanolin"
+      ]
+    },
+    {
+      "name": "Piles (Hemorrhoids)",
+      "symptoms": [
+        "Pain or discomfort in the anal area",
+        "Swelling or lumps around the anus",
+        "Bleeding during bowel movements",
+        "Itching or irritation in the anal region",
+        "Mucus discharge after passing stool",
+        "Difficulty sitting due to pain"
+      ],
+      "precautions": [
+        "Eat a high-fiber diet (fruits, vegetables, whole grains)",
+        "Drink plenty of water to prevent constipation",
+        "Avoid straining during bowel movements",
+        "Exercise regularly to improve digestion",
+        "Maintain proper hygiene in the anal area",
+        "Use warm sitz baths to relieve discomfort",
+        "Avoid sitting for long periods"
+      ],
+      "description": "Piles, also known as hemorrhoids, are swollen veins in the lower rectum or anus. They can be internal or external and are often caused by straining during bowel movements, chronic constipation, or prolonged sitting. Proper diet, hydration, and hygiene can help manage and prevent piles.",
+      "medicines": [
+        "Hydrocortisone cream (to reduce itching and swelling)",
+        "Lidocaine ointment (for pain relief)",
+        "Witch hazel wipes (to soothe irritation)",
+        "Oral pain relievers (e.g., Ibuprofen, Acetaminophen)",
+        "Fiber supplements (e.g., Psyllium husk to soften stool)"
+      ]
+    },
+    {
+      "name": "Stress",
+      "symptoms": [
+        "Feeling overwhelmed or anxious",
+        "Frequent headaches",
+        "Muscle tension or body pain",
+        "Fatigue and lack of energy",
+        "Difficulty sleeping (insomnia)",
+        "Irritability or mood swings",
+        "Difficulty concentrating",
+        "Increased heart rate or palpitations",
+        "Digestive problems (upset stomach, nausea, diarrhea)"
+      ],
+      "precautions": [
+        "Practice relaxation techniques such as deep breathing and meditation",
+        "Engage in regular physical exercise",
+        "Maintain a balanced diet and stay hydrated",
+        "Ensure adequate sleep (7-9 hours per night)",
+        "Avoid excessive caffeine, alcohol, and smoking",
+        "Take breaks and avoid overworking",
+        "Engage in hobbies or activities that bring joy",
+        "Seek social support from family and friends",
+        "Consult a therapist or counselor if stress becomes overwhelming"
+      ],
+      "description": "Stress is the body's natural response to challenges or demands. While short-term stress can be beneficial in certain situations, chronic stress can negatively impact physical and mental health. Managing stress through relaxation, exercise, and proper self-care is essential for overall well-being.",
+      "medicines": [
+        "Herbal supplements (e.g., Ashwagandha, Valerian root, Chamomile tea)",
+        "Vitamin B-complex (to support nervous system health)",
+        "Magnesium supplements (to help with relaxation)",
+        "Melatonin (for sleep-related stress issues)",
+        "Prescription medications (e.g., Anti-anxiety or antidepressants, if prescribed by a doctor)"
+      ]
+    },
+    {
+      "name": "Fits (Seizures , Epilepsy)",
+      "symptoms": [
+        "Sudden, uncontrolled body movements (convulsions)",
+        "Loss of consciousness or awareness",
+        "Uncontrollable jerking of arms and legs",
+        "Blank staring or unresponsiveness",
+        "Temporary confusion",
+        "Loss of bladder or bowel control during a seizure",
+        "Strange sensations (such as tingling or dizziness)",
+        "Sudden fear, anxiety, or déjà vu feeling"
+      ],
+      "precautions": [
+        "Take prescribed medications regularly",
+        "Avoid triggers such as stress, lack of sleep, and flashing lights",
+        "Follow a healthy sleep schedule",
+        "Maintain a balanced diet and stay hydrated",
+        "Avoid alcohol and recreational drugs",
+        "Wear medical identification in case of emergency",
+        "Ensure a safe environment to prevent injury during a seizure",
+        "Consult a neurologist for regular check-ups"
+      ],
+      "description": "Seizures, also known as epilepsy, are sudden and uncontrolled electrical disturbances in the brain. They can cause convulsions, loss of awareness, or abnormal sensations. Epilepsy can be managed with medication and lifestyle adjustments.",
+      "medicines": [
+        "Anti-epileptic drugs (e.g., Carbamazepine, Valproic acid, Phenytoin)",
+        "Benzodiazepines (e.g., Diazepam, Lorazepam for emergency seizure control)",
+        "Ketogenic diet (a high-fat, low-carb diet to reduce seizure frequency)",
+        "Vitamin B6 supplements (in some cases of epilepsy-related deficiency)"
+      ]
+    },
+    {
+      "name": "Scabies",
+      "symptoms": [
+        "Intense itching, especially at night",
+        "Red rashes or tiny blisters on the skin",
+        "Thin, irregular burrow tracks on the skin",
+        "Sores caused by scratching",
+        "Thickened, crusty skin in severe cases (crusted scabies)"
+      ],
+      "precautions": [
+        "Avoid close skin-to-skin contact with infected individuals",
+        "Wash clothes, bedding, and towels in hot water",
+        "Vacuum furniture and carpets regularly",
+        "Avoid sharing personal items such as clothing and towels",
+        "Trim nails short to prevent infection from scratching",
+        "Use prescribed medication as directed"
+      ],
+      "description": "Scabies is a highly contagious skin condition caused by the Sarcoptes scabiei mite. It leads to intense itching and skin rashes. The mites burrow under the skin, causing irritation and discomfort. Proper treatment and hygiene measures help in managing the condition effectively.",
+      "medicines": [
+        "Permethrin cream (to kill mites and eggs)",
+        "Ivermectin (oral medication for severe cases)",
+        "Crotamiton cream (to relieve itching and irritation)",
+        "Antihistamines (e.g., Loratadine, Diphenhydramine to reduce itching)",
+        "Hydrocortisone cream (for inflammation and redness relief)"
+      ]
+    },
+    {
+      "name": "Albinism",
+      "symptoms": [
+        "Very light or white skin",
+        "Light-colored or white hair",
+        "Pale blue or pinkish eyes",
+        "Vision problems such as nystagmus (involuntary eye movement)",
+        "Increased sensitivity to sunlight (photophobia)",
+        "Poor depth perception",
+        "Higher risk of sunburn and skin cancer"
+      ],
+      "precautions": [
+        "Avoid prolonged sun exposure and use sunscreen (SPF 30 or higher)",
+        "Wear sunglasses or prescription glasses to protect against UV rays",
+        "Use protective clothing such as hats and long sleeves",
+        "Regular eye check-ups to manage vision problems",
+        "Avoid bright lights and glare to reduce eye strain",
+        "Monitor skin for any unusual changes and seek medical advice"
+      ],
+      "description": "Albinism is a rare genetic condition characterized by a lack of melanin pigment in the skin, hair, and eyes. It affects vision and increases sensitivity to sunlight. While there is no cure, individuals with albinism can manage the condition with protective measures and eye care.",
+      "medicines": [
+        "There is no specific medication for albinism",
+        "Sunscreen (to protect skin from UV damage)",
+        "Vitamin A supplements (for eye health, if recommended by a doctor)",
+        "Prescription glasses or contact lenses (to improve vision)"
+      ]
+    },
+    {
+      "name": "Dermatitis",
+      "symptoms": [
+        "Red, inflamed skin",
+        "Itching and irritation",
+        "Dry, scaly, or cracked skin",
+        "Swelling in affected areas",
+        "Blisters or oozing in severe cases",
+        "Thickened or rough skin with long-term irritation"
+      ],
+      "precautions": [
+        "Avoid known allergens and irritants (soaps, detergents, chemicals, etc.)",
+        "Moisturize skin regularly to prevent dryness",
+        "Wear soft, breathable clothing (cotton is recommended)",
+        "Avoid scratching to prevent infections",
+        "Use mild, fragrance-free skincare products",
+        "Take short, lukewarm showers instead of hot baths",
+        "Manage stress, as it can worsen symptoms"
+      ],
+      "description": "Dermatitis is a general term for skin inflammation, which can be caused by allergies, irritants, genetics, or environmental factors. Common types include atopic dermatitis (eczema), contact dermatitis, and seborrheic dermatitis. Symptoms vary from mild redness to severe itching and blistering.",
+      "medicines": [
+        "Topical corticosteroids (e.g., Hydrocortisone, Betamethasone)",
+        "Antihistamines (e.g., Loratadine, Cetirizine for itching relief)",
+        "Moisturizers and emollients (e.g., Petroleum jelly, Ceramide creams)",
+        "Calcineurin inhibitors (e.g., Tacrolimus, Pimecrolimus for long-term use)",
+        "Antibiotics (if secondary infection develops)",
+        "Oatmeal baths or soothing lotions (for symptom relief)"
+      ]
+    },
+    {
+      "name": "Impetigo",
+      "symptoms": [
+        "Red sores that quickly rupture and form honey-colored crusts",
+        "Itchy, fluid-filled blisters",
+        "Sores around the nose, mouth, hands, or other areas",
+        "Swollen lymph nodes in severe cases",
+        "Skin irritation and mild pain"
+      ],
+      "precautions": [
+        "Maintain proper hygiene and wash hands frequently",
+        "Avoid scratching or touching affected areas",
+        "Keep the skin clean and dry",
+        "Do not share personal items like towels, razors, or clothing",
+        "Cover sores with bandages to prevent spreading",
+        "Wash affected clothing and bedding in hot water"
+      ],
+      "description": "Impetigo is a highly contagious bacterial skin infection caused by Staphylococcus or Streptococcus bacteria. It commonly affects children and spreads through direct contact with infected skin, surfaces, or objects. It appears as red sores that break open, ooze, and form a yellow-brown crust.",
+      "medicines": [
+        "Topical antibiotics (e.g., Mupirocin, Fusidic acid)",
+        "Oral antibiotics (e.g., Cephalexin, Amoxicillin for severe cases)",
+        "Antiseptic washes (e.g., Chlorhexidine, Hydrogen peroxide)",
+        "Pain relievers (e.g., Paracetamol, Ibuprofen for discomfort)"
+      ]
+    },
+    {
+      "name": "Cellulitis",
+      "symptoms": [
+        "Red, swollen, and tender skin",
+        "Warmth in the affected area",
+        "Pain or tenderness in the affected region",
+        "Fever and chills",
+        "Blisters or skin dimpling in some cases",
+        "Swollen lymph nodes near the infection site"
+      ],
+      "precautions": [
+        "Keep wounds clean and covered to prevent infection",
+        "Practice good hygiene and wash hands frequently",
+        "Avoid scratching or picking at the skin",
+        "Wear protective clothing when working in environments prone to injury",
+        "Manage conditions like diabetes that increase infection risk",
+        "Seek medical attention for cuts or wounds that worsen or show signs of infection"
+      ],
+      "description": "Cellulitis is a bacterial skin infection caused by Streptococcus or Staphylococcus bacteria. It commonly affects the lower legs but can occur anywhere on the body. If untreated, it can spread to deeper tissues and the bloodstream, becoming serious or life-threatening.",
+      "medicines": [
+        "Oral antibiotics (e.g., Amoxicillin, Cephalexin, Clindamycin)",
+        "Intravenous antibiotics (for severe cases, e.g., Vancomycin, Ceftriaxone)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen)",
+        "Antiseptic creams (for minor infections and prevention)"
+      ]
+    },
+    {
+      "name": "Tooth Sensitivity",
+      "symptoms": [
+        "Sharp pain when consuming hot, cold, sweet, or acidic foods and drinks",
+        "Discomfort while brushing or flossing",
+        "Pain when breathing in cold air",
+        "Gum recession exposing tooth roots",
+        "Enamel erosion or worn-down teeth"
+      ],
+      "precautions": [
+        "Use a soft-bristled toothbrush and brush gently",
+        "Avoid acidic and sugary foods that erode enamel",
+        "Use desensitizing toothpaste with fluoride",
+        "Rinse with fluoride mouthwash to strengthen enamel",
+        "Avoid teeth grinding (bruxism) and consider a mouthguard if necessary",
+        "Visit a dentist regularly for professional care"
+      ],
+      "description": "Tooth sensitivity occurs when the protective enamel layer wears down, exposing the underlying dentin and nerve endings. This condition can cause sharp, temporary pain in response to hot, cold, or sweet stimuli. Common causes include enamel erosion, gum recession, cavities, or teeth grinding.",
+      "medicines": [
+        "Desensitizing toothpaste (e.g., Sensodyne, Colgate Sensitive Pro-Relief)",
+        "Fluoride gels or varnishes (applied by a dentist to strengthen enamel)",
+        "Dental bonding agents (for covering exposed dentin)",
+        "Mouthguards (for bruxism-induced sensitivity)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for severe cases)"
+      ]
+    },
+    {
+      "name": "Oral Cancer",
+      "symptoms": [
+        "Persistent mouth sores or ulcers that do not heal",
+        "White or red patches inside the mouth",
+        "Lump or thickening in the cheek, tongue, or gums",
+        "Difficulty chewing, swallowing, or speaking",
+        "Unexplained bleeding in the mouth",
+        "Numbness or pain in the mouth or lips",
+        "Chronic sore throat or hoarseness",
+        "Loose teeth or ill-fitting dentures"
+      ],
+      "precautions": [
+        "Avoid tobacco use (smoking and chewing tobacco)",
+        "Limit alcohol consumption",
+        "Maintain good oral hygiene with regular brushing and flossing",
+        "Eat a balanced diet rich in fruits and vegetables",
+        "Use lip balm with SPF to protect against sun damage",
+        "Get regular dental check-ups for early detection",
+        "Avoid prolonged exposure to HPV infection (vaccination may help)"
+      ],
+      "description": "Oral cancer refers to the abnormal growth of cells in the mouth, lips, tongue, gums, or throat. It is commonly associated with tobacco use, excessive alcohol consumption, and HPV infection. Early detection improves treatment outcomes, so regular dental screenings are important.",
+      "medicines": [
+        "Surgical removal of tumors (if applicable)",
+        "Chemotherapy drugs (e.g., Cisplatin, 5-Fluorouracil, Paclitaxel)",
+        "Radiation therapy (to shrink or destroy cancer cells)",
+        "Immunotherapy drugs (e.g., Pembrolizumab for advanced cases)",
+        "Pain management medications (e.g., Morphine, Acetaminophen)"
+      ]
+    },
+    {
+      "name": "Gingivitis",
+      "symptoms": [
+        "Red, swollen gums",
+        "Bleeding gums, especially when brushing or flossing",
+        "Bad breath (halitosis)",
+        "Tender or sensitive gums",
+        "Receding gums making teeth appear longer",
+        "Soft or puffy gum tissue"
+      ],
+      "precautions": [
+        "Brush teeth twice daily with fluoride toothpaste",
+        "Floss daily to remove plaque buildup",
+        "Use an antibacterial mouthwash to reduce bacteria",
+        "Visit a dentist regularly for cleanings and check-ups",
+        "Avoid smoking and tobacco products",
+        "Maintain a balanced diet rich in vitamins and minerals",
+        "Stay hydrated to promote saliva production and oral health"
+      ],
+      "description": "Gingivitis is a mild form of gum disease caused by plaque buildup along the gumline. It leads to inflammation, redness, and bleeding gums. If untreated, it can progress to periodontitis, a more severe gum infection that can cause tooth loss.",
+      "medicines": [
+        "Antiseptic mouthwashes (e.g., Chlorhexidine, Listerine)",
+        "Topical antibiotics (e.g., Doxycycline gel, Minocycline microspheres)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for discomfort)",
+        "Professional dental cleaning (scaling and root planing to remove plaque and tartar)"
+      ]
+    },
+    {
+      "name": "Periodontitis",
+      "symptoms": [
+        "Swollen, red, or tender gums",
+        "Bleeding gums when brushing or flossing",
+        "Persistent bad breath (halitosis)",
+        "Receding gums leading to exposed tooth roots",
+        "Loose or shifting teeth",
+        "Pain while chewing",
+        "Formation of deep pockets between teeth and gums",
+        "Pus around teeth and gums in severe cases"
+      ],
+      "precautions": [
+        "Brush teeth twice daily with fluoride toothpaste",
+        "Floss daily to remove plaque and food particles",
+        "Use an antibacterial mouthwash to reduce bacteria",
+        "Visit a dentist regularly for professional cleanings",
+        "Avoid smoking and tobacco products",
+        "Maintain a balanced diet to support gum health",
+        "Manage conditions like diabetes that increase the risk of gum disease"
+      ],
+      "description": "Periodontitis is an advanced gum disease that occurs when gingivitis is left untreated. It leads to inflammation and infection of the gums and supporting bone, potentially causing tooth loss. It is primarily caused by plaque buildup and bacterial infection, worsened by poor oral hygiene, smoking, and systemic diseases like diabetes.",
+      "medicines": [
+        "Antiseptic mouthwashes (e.g., Chlorhexidine, Listerine)",
+        "Oral antibiotics (e.g., Amoxicillin, Metronidazole, Doxycycline)",
+        "Topical antibiotics (e.g., Minocycline microspheres, Arestin gel)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen for discomfort)",
+        "Surgical treatments (e.g., scaling and root planing, gum graft surgery in severe cases)"
+      ]
+    },
+    {
+      "name": "Tooth Abscess",
+      "symptoms": [
+        "Severe, persistent, throbbing toothache",
+        "Swelling in the face or cheek",
+        "Tender, swollen gums",
+        "Fever and general discomfort",
+        "Sensitivity to hot and cold foods or drinks",
+        "Pain when chewing or biting",
+        "Bad breath or foul taste in the mouth",
+        "Pus drainage from the affected tooth"
+      ],
+      "precautions": [
+        "Maintain good oral hygiene by brushing and flossing daily",
+        "Avoid consuming excessive sugary foods and drinks",
+        "Visit the dentist regularly for check-ups and cleanings",
+        "Use an antiseptic mouthwash to prevent bacterial infections",
+        "Treat cavities and gum infections early to prevent abscess formation",
+        "Avoid using the affected tooth for chewing if pain is present",
+        "Do not delay seeking dental treatment if symptoms appear"
+      ],
+      "description": "A tooth abscess is a bacterial infection that causes a pocket of pus to form in or around a tooth. It can result from an untreated cavity, gum infection, or dental trauma. If left untreated, the infection can spread to surrounding tissues or even enter the bloodstream, leading to serious complications.",
+      "medicines": [
+        "Oral antibiotics (e.g., Amoxicillin, Clindamycin, Metronidazole)",
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen)",
+        "Saltwater rinses to reduce swelling and discomfort",
+        "Dental procedures (e.g., root canal therapy, tooth extraction in severe cases)"
+      ]
+    },
+    {
+      "name": "Oral Thrush (Candidiasis)",
+      "symptoms": [
+        "White, creamy patches on the tongue, inner cheeks, or roof of the mouth",
+        "Pain or soreness in the mouth and throat",
+        "Difficulty swallowing",
+        "Loss of taste or a cotton-like sensation in the mouth",
+        "Cracking and redness at the corners of the mouth",
+        "Bleeding when white patches are scraped",
+        "Dry mouth"
+      ],
+      "precautions": [
+        "Maintain good oral hygiene by brushing and flossing daily",
+        "Use an antiseptic mouthwash to reduce bacterial growth",
+        "Avoid excessive sugar intake, which promotes fungal growth",
+        "Rinse mouth after using corticosteroid inhalers",
+        "Limit antibiotic use unless prescribed by a doctor",
+        "Strengthen the immune system through a balanced diet and proper nutrition",
+        "Visit a dentist regularly for check-ups"
+      ],
+      "description": "Oral Thrush, or Candidiasis, is a fungal infection caused by Candida yeast. It commonly affects infants, older adults, and those with weakened immune systems. It can result from antibiotic use, poor oral hygiene, or conditions like diabetes. Early treatment helps prevent spreading and discomfort.",
+      "medicines": [
+        "Antifungal mouth rinses (e.g., Nystatin)",
+        "Oral antifungal medications (e.g., Fluconazole, Itraconazole, Clotrimazole lozenges)",
+        "Probiotic supplements to restore healthy bacteria balance",
+        "Pain relievers (e.g., Acetaminophen, Ibuprofen for discomfort)"
+      ]
+    },
+    {
+      "name": "Tooth Erosion",
+      "symptoms": [
+        "Increased tooth sensitivity to hot, cold, or sweet foods and drinks",
+        "Smooth, shiny, or rounded edges on teeth",
+        "Yellowing of teeth due to enamel thinning",
+        "Transparent or see-through appearance at the edges of teeth",
+        "Pain or discomfort when eating acidic or sugary foods",
+        "Small cracks or dents on the surface of teeth",
+        "Increased risk of cavities and tooth decay"
+      ],
+      "precautions": [
+        "Limit the intake of acidic foods and beverages (e.g., citrus fruits, sodas, wine)",
+        "Drink plenty of water to rinse away acids after meals",
+        "Use a straw when drinking acidic beverages to reduce enamel exposure",
+        "Brush with a fluoride toothpaste to strengthen enamel",
+        "Avoid aggressive tooth brushing; use a soft-bristled toothbrush",
+        "Wait at least 30 minutes after eating before brushing teeth",
+        "Visit the dentist regularly for fluoride treatments and check-ups"
+      ],
+      "description": "Tooth erosion occurs when the enamel, the protective outer layer of teeth, wears away due to exposure to acidic substances. It can lead to sensitivity, discoloration, and an increased risk of cavities. Common causes include acidic foods, carbonated drinks, acid reflux, and poor oral hygiene.",
+      "medicines": [
+        "Fluoride treatments (e.g., fluoride varnish, fluoride gel)",
+        "Remineralizing toothpaste (e.g., hydroxyapatite or fluoride-based toothpaste)",
+        "Dental bonding or veneers to restore enamel loss",
+        "Prescription desensitizing toothpaste (e.g., potassium nitrate-based toothpaste)",
+        "Medications for acid reflux if GERD is the cause (e.g., Omeprazole, Ranitidine)"
+      ]
+    },
+    {
+      "name": "Earwax Blockage",
+      "symptoms": [
+        "Earache or discomfort",
+        "Feeling of fullness in the ear",
+        "Hearing loss or muffled hearing",
+        "Ringing in the ear (tinnitus)",
+        "Dizziness or balance issues",
+        "Itching inside the ear",
+        "Discharge or foul smell from the ear in severe cases"
+      ],
+      "precautions": [
+        "Avoid using cotton swabs or other objects to remove earwax",
+        "Use ear drops to soften earwax if necessary",
+        "Keep ears dry to prevent infections",
+        "Avoid excessive use of earphones or hearing aids without cleaning",
+        "Visit a doctor if experiencing severe symptoms or persistent blockage",
+        "Gently clean the outer ear with a damp cloth"
+      ],
+      "description": "Earwax blockage occurs when excessive or hardened earwax accumulates in the ear canal, leading to discomfort, temporary hearing loss, and other symptoms. It can be caused by overproduction of earwax, improper ear cleaning, or the use of hearing aids and earplugs.",
+      "medicines": [
+        "Over-the-counter ear drops (e.g., carbamide peroxide, hydrogen peroxide-based drops)",
+        "Saline or mineral oil solutions for earwax softening",
+        "Medical ear irrigation (performed by a doctor if needed)",
+        "Manual removal by a healthcare provider using specialized tools"
+      ]
+    },
+    {
+      "name": "Eardrum Rupture",
+      "symptoms": [
+        "Sudden sharp pain in the ear",
+        "Hearing loss or muffled hearing",
+        "Ringing in the ear (tinnitus)",
+        "Fluid or pus drainage from the ear",
+        "Dizziness or vertigo",
+        "Nausea or vomiting (due to balance issues)",
+        "Sensitivity to loud sounds"
+      ],
+      "precautions": [
+        "Avoid inserting objects (e.g., cotton swabs, earplugs) into the ear",
+        "Protect ears from loud noises to prevent damage",
+        "Avoid water exposure (e.g., swimming, showering) until healed",
+        "Treat ear infections promptly to prevent complications",
+        "Avoid air pressure changes (e.g., airplane travel, deep diving) if experiencing ear pain",
+        "Consult a doctor if experiencing severe symptoms"
+      ],
+      "description": "Eardrum rupture (perforated tympanic membrane) occurs when a tear or hole forms in the eardrum due to infection, injury, or sudden pressure changes. This can cause pain, hearing loss, and an increased risk of infections. Most cases heal on their own, but severe ruptures may require medical treatment.",
+      "medicines": [
+        "Pain relievers (e.g., Ibuprofen, Acetaminophen) to manage pain",
+        "Antibiotic ear drops or oral antibiotics if infection is present",
+        "Eardrum patching (performed by a doctor if necessary)",
+        "Surgical repair (tympanoplasty) in severe cases"
+      ]
+    },
+    {
+      "name": "Back Pain",
+      "symptoms": [
+        "Dull or sharp aching pain in the lower, middle, or upper back",
+        "Pain that worsens with bending, lifting, standing, or walking",
+        "Stiffness and reduced flexibility in the back",
+        "Muscle tightness or spasms",
+        "Pain radiating to the buttocks, legs, or hips (if nerve involvement)",
+        "Numbness or tingling in legs (in case of nerve compression)"
+      ],
+      "precautions": [
+        "Maintain good posture while sitting, standing, and lifting objects",
+        "Avoid prolonged sitting or standing in one position",
+        "Use an ergonomic chair and supportive mattress",
+        "Apply heat or ice packs to reduce pain and inflammation",
+        "Engage in regular stretching and strengthening exercises",
+        "Avoid carrying heavy loads improperly",
+        "Take breaks and move around when working at a desk",
+        "Seek medical advice if the pain persists, worsens, or affects mobility"
+      ],
+      "description": "Back pain is a common condition caused by muscle strain, poor posture, injury, or underlying issues such as herniated discs or arthritis. It can range from mild discomfort to severe pain, impacting daily activities. Proper rest, posture correction, and exercises can help alleviate symptoms.",
+      "medicines": [
+        "Pain relievers (e.g., Ibuprofen, Paracetamol for mild pain)",
+        "Muscle relaxants (e.g., Baclofen, Cyclobenzaprine for muscle spasms)",
+        "Topical pain relief creams (e.g., Diclofenac gel, Capsaicin cream)",
+        "Physical therapy and core-strengthening exercises",
+        "Steroid injections (for severe cases, as prescribed by a doctor)"
+      ]
+    }
+         
+  ]
+}

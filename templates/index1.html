@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Medical Chatbot</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f8f9fa;
+            text-align: center;
+        }
+        .chat-container {
+            width: 50%;
+            margin: auto;
+            background-color: white;
+            padding: 20px;
+            border-radius: 8px;
+            box-shadow: 0px 0px 10px gray;
+        }
+        .chat-box {
+            height: 300px;
+            overflow-y: auto;
+            border: 1px solid #ccc;
+            padding: 10px;
+            background-color: #f1f1f1;
+        }
+        .user-message {
+            color: blue;
+            font-weight: bold;
+        }
+        .bot-message {
+            color: green;
+            font-weight: bold;
+        }
+        input, button {
+            margin-top: 10px;
+            padding: 10px;
+            width: 80%;
+        }
+        button {
+            background-color: blue;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+    </style>
+</head>
+<body>
+    <div class="chat-container">
+        <h2>Medical Chatbot</h2>
+        <div id="chat-box" class="chat-box"></div>
+        <input type="text" id="user-message" placeholder="Type your message here..." />
+        <button onclick="sendMessage()">Send</button>
+    </div>
+
+    <script>
+        function sendMessage() {
+            let userInput = document.getElementById("user-message").value;
+            document.getElementById("user-message").value = "";
+            if (!userInput.trim()) return;
+
+            let chatBox = document.getElementById("chat-box");
+            chatBox.innerHTML += `<p class="user-message"><b>You:</b> ${userInput}</p>`;
+
+            fetch("/chat", {
+                method: "POST",
+                headers: {"Content-Type": "application/json"},
+                body: JSON.stringify({"message": userInput, "prev_disease": sessionStorage.getItem("prev_disease")})
+            })
+            .then(response => response.json())
+            .then(data => {
+                if (data.corrected_disease && !data.follow_up) {
+                    chatBox.innerHTML += `<p class="bot-message"><b>Bot:</b> ${data.response}</p>`;
+                    sessionStorage.setItem("corrected_disease", data.corrected_disease);
+                    chatBox.innerHTML += `<p class="bot-message"><b>Bot:</b> If this is correct, type "<b>${data.corrected_disease}</b>" to continue.</p>`;
+                } else {
+                    chatBox.innerHTML += `<p class="bot-message"><b>Bot:</b> ${data.response.replace(/\n/g, "<br>")}</p>`;
+                    if (data.follow_up) {
+                        chatBox.innerHTML += `<p class="bot-message"><b>Bot:</b> ${data.follow_up}</p>`;
+                        sessionStorage.setItem("prev_disease", data.corrected_disease);
+                    } else {
+                        sessionStorage.removeItem("prev_disease");
+                    }
+                }
+                chatBox.scrollTop = chatBox.scrollHeight;
+            });
+        }
+    </script>
+</body>
+</html>

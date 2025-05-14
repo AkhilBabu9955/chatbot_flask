@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disease Chatbot</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <style>
+        body { font-family: Arial, sans-serif; text-align: center; padding: 50px; }
+        #chat { margin-top: 20px; }
+        button { padding: 10px; margin: 10px; }
+        #chat { display: none; }
+    </style>
+</head>
+<body>
+    <h1>Welcome to Disease Chatbot</h1>
+    <button id="start">Do you know about your disease?</button>
+    <div id="chat">
+        <p>Please enter your disease name:</p>
+        <input type="text" id="diseaseInput">
+        <button id="submitDisease">Submit</button>
+        <div id="response"></div>
+    </div>
+    
+    <script>
+        $(document).ready(function() {
+            $("#start").click(function() {
+                $("#chat").show();
+            });
+
+            $("#submitDisease").click(function() {
+                let diseaseName = $("#diseaseInput").val();
+                if (diseaseName) {
+                    $.ajax({
+                        url: "/get_disease",
+                        type: "POST",
+                        contentType: "application/json",
+                        data: JSON.stringify({ disease_name: diseaseName }),
+                        success: function(response) {
+                            if (response.status === "found") {
+                                $("#response").html(
+                                    `<p><strong>Disease:</strong> ${response.disease}</p>
+                                    <p><strong>Symptoms:</strong> ${response.symptoms}</p>
+                                    <p><strong>Description:</strong> ${response.description}</p>
+                                    <p>Would you like me to suggest medicines and precautions?</p>
+                                    <button id="yes">Yes</button>
+                                    <button id="no">No</button>`
+                                );
+                                $("#yes").click(function() {
+                                    $.ajax({
+                                        url: "/get_treatment",
+                                        type: "POST",
+                                        contentType: "application/json",
+                                        data: JSON.stringify({ disease_name: diseaseName }),
+                                        success: function(treatment) {
+                                            $("#response").append(
+                                                `<p><strong>Medicines:</strong> ${treatment.medicines}</p>
+                                                <p><strong>Precautions:</strong> ${treatment.precautions}</p>`
+                                            );
+                                        }
+                                    });
+                                });
+                                $("#no").click(function() {
+                                    $("#response").html("Okay, please enter another disease name.");
+                                });
+                            } else if (response.status === "suggest") {
+                                $("#response").html(
+                                    `<p>Did you mean <strong>${response.suggested_disease}</strong>?</p>
+                                    <button id="accept">Yes</button>
+                                    <button id="reject">No</button>`
+                                );
+                                $("#accept").click(function() {
+                                    $("#diseaseInput").val(response.suggested_disease);
+                                    $("#submitDisease").click();
+                                });
+                                $("#reject").click(function() {
+                                    $("#response").html("Please enter the correct disease name.");
+                                });
+                            } else {
+                                $("#response").html("Disease not found. Please try again.");
+                            }
+                        }
+                    });
+                }
+            });
+        });
+    </script>
+</body>
+</html>
